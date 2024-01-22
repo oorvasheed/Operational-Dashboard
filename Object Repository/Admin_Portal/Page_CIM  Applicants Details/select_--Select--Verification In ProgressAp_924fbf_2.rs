@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select--Verification In ProgressAp_924fbf_2</name>
+   <tag></tag>
+   <elementGuidId>4999c92d-2e02-40a4-a932-712cdebff295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Current_Status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Current_Status']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>afedaf39-a878-47e3-9ce4-d5e32aeb81a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>31c3c747-f4ad-45dd-8b51-986da2fec16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Current_Status</value>
+      <webElementGuid>d00e8982-e015-4014-8c7e-ca482f52861f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Current Status</value>
+      <webElementGuid>4a74f4ed-d40d-4595-9358-f16c8ad6ea8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select--
+Verification In Progress
+Approved
+Rejected
+</value>
+      <webElementGuid>dd27d91f-b059-4817-8134-84bf1220b3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Current_Status&quot;)</value>
+      <webElementGuid>cb9d6be6-38d3-4316-9dc8-cadb665e510d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Current_Status']</value>
+      <webElementGuid>807f2191-b5e6-430b-8ca4-e3363349ad4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idDocStatusDiv']/div/div/div/div[2]/span/select</value>
+      <webElementGuid>21127979-2355-4180-bbfa-bdc27e7abf73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Status'])[1]/following::select[1]</value>
+      <webElementGuid>3ff5259c-daff-45ee-82db-b20246c526cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::select[1]</value>
+      <webElementGuid>5dc39baf-8e2b-4935-b7db-67a357059bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select status'])[1]/preceding::select[1]</value>
+      <webElementGuid>9534c22e-8b3d-4ec5-92a2-ba2201f0db6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[3]/preceding::select[1]</value>
+      <webElementGuid>6e60c478-df2f-485e-a6df-3c9f4b84fe8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/select</value>
+      <webElementGuid>ce7b9b87-3a59-4119-9a5e-4fd8ecde4d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Current_Status' and @name = 'Current Status' and (text() = '--Select--
+Verification In Progress
+Approved
+Rejected
+' or . = '--Select--
+Verification In Progress
+Approved
+Rejected
+')]</value>
+      <webElementGuid>dad45503-a68b-4552-9599-0b743df08569</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

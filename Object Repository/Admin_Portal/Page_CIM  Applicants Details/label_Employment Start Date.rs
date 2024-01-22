@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Employment Start Date</name>
+   <tag></tag>
+   <elementGuidId>3ba44e79-21f3-4146-ba77-dfd70516d696</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-home']/div/div[16]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c5630df4-9b1b-4339-a136-4c30b6405e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>EmploymentStartDate</value>
+      <webElementGuid>6a6630ce-a8fe-4e3a-80e1-83df187e838a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employment Start Date</value>
+      <webElementGuid>950bc3d8-dc35-4ffc-922d-eb1ac4e2b456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-home&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 form-group&quot;]/label[1]</value>
+      <webElementGuid>0eb7005d-1b50-47e7-a127-b9d5e3e76590</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-home']/div/div[16]/label</value>
+      <webElementGuid>5752cf42-6abc-4f03-904e-145115d14826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employer Name'])[2]/following::label[1]</value>
+      <webElementGuid>e06cdacc-77ef-4e70-a8d2-a02463705c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Flag'])[1]/following::label[2]</value>
+      <webElementGuid>faa0f53a-470e-4526-bd4c-cc0dddfe5b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Title'])[1]/preceding::label[1]</value>
+      <webElementGuid>6f83de4f-a638-4a11-9dc5-d0bdc7004d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Income'])[1]/preceding::label[2]</value>
+      <webElementGuid>19ab6a1f-5afb-4dff-b4d7-13c9fb1f6a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employment Start Date']/parent::*</value>
+      <webElementGuid>74b40e6c-13b4-4364-a85f-6f8dd98b09c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/label</value>
+      <webElementGuid>e0e43920-eb5a-4d95-8e9b-150aedac2c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Employment Start Date' or . = 'Employment Start Date')]</value>
+      <webElementGuid>e57e5d2d-3e68-49fa-aa7d-f643c9895e9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
