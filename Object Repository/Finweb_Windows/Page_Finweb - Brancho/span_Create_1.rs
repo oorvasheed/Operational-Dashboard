@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create_1</name>
+   <tag></tag>
+   <elementGuidId>ea309039-23e7-4ba0-ab1c-17ee4a800bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-4']/shared-dialog/div/create-line/div[3]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-flat-button.mat-button-base.mat-primary.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>daab6719-4c50-4ff0-a2c4-68159c77b691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>3389dbf5-f02b-4df4-af6d-3f7f993c308b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create </value>
+      <webElementGuid>3851fa49-c5fc-4428-bda4-3b53485e6946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-4&quot;)/shared-dialog[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-full h-full&quot;]/create-line[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex justify-end mt-6 -mb-6 -mx-6 py-6 px-10 border-t space-x-4 bg-gray-50 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>34b8dc42-82f5-4d82-b179-bb18612f16da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-4']/shared-dialog/div/create-line/div[3]/button[2]/span</value>
+      <webElementGuid>2270b476-bb64-4384-a605-126f4bec144b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[3]</value>
+      <webElementGuid>fa53eef1-8954-441b-a525-0640987d19f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There are no overdue charges'])[1]/following::span[4]</value>
+      <webElementGuid>9f25b838-57fa-410a-87de-447d0be900ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>5377ba9a-5a9c-450a-a779-3addabd28876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>8c62f37a-d0eb-4507-8cd4-0b699cc949f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Create ' or . = ' Create ')]</value>
+      <webElementGuid>aac3f4f3-3c7e-49b9-ba64-d029bf0b944f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

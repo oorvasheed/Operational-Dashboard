@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Plant Propagation</name>
+   <tag></tag>
+   <elementGuidId>429ea47d-cb62-4f7a-a1c5-91b224de26a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-123']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-123 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3b58013-43e8-4d86-987c-55ca6c3c8ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>ccaa6ba8-bb6a-4428-a1be-521ee62cca74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plant Propagation</value>
+      <webElementGuid>5ed9dc9b-d647-4e18-993f-4a20901de497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-123&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>87408b2a-c752-4e6a-8f65-cabb6471cd0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-123']/span</value>
+      <webElementGuid>3b302ac8-44e4-4fe6-9c3a-4e347f6ef060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Growing Of Perennial Crops'])[1]/following::span[1]</value>
+      <webElementGuid>f9595659-db1e-47a1-8229-efc2f86086c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sugar Cane'])[2]/following::span[2]</value>
+      <webElementGuid>c7fd7b91-e0da-4dc2-a6f3-8e78ad3f38dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Animal Production'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c45ad57-a33b-4083-ae85-c389b5b1ae5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Crop And Animal Production, Hunting And Related Service Activities'])[1]/preceding::span[2]</value>
+      <webElementGuid>d5eaffd9-f841-46e0-a601-49da0d8e9145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plant Propagation']/parent::*</value>
+      <webElementGuid>9c6c8381-37a9-4132-b8f9-c7a6728a5b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span</value>
+      <webElementGuid>704f1081-f9a2-40ba-aef9-7635aa07825e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Plant Propagation' or . = 'Plant Propagation')]</value>
+      <webElementGuid>5c135cc7-5af0-4829-a32a-0e48a13fc1b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

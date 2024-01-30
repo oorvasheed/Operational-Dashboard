@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>45a7c2c6-43a9-438e-a319-31c1898a04b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NAVISHA SUKURDEEP (RAMSOKUL)'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>73064314-db8f-4476-a7f0-4a841476853f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e214070a-2054-46ac-811f-4cf24df44413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>4fcbade9-b527-4d41-a683-4ec777424642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>ed85088e-6fe8-40d8-9761-a48c79cd3573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>98eaa0c7-19a8-40ba-8728-8169cf763533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>0620587b-3163-482a-ae23-9be602727389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>preserveAspectRatio</name>
+      <type>Main</type>
+      <value>xMidYMid meet</value>
+      <webElementGuid>f0bfe900-208b-4b95-9f35-142e9281eefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c930f919-c218-4ab0-9d4e-e86c645c16f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default ng-tns-0-6&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full min-w-0&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/leads-list[@class=&quot;ng-star-inserted&quot;]/fuse-drawer[@class=&quot;w-2/6 fuse-drawer-fixed fuse-drawer-mode-over fuse-drawer-position-right fuse-drawer-animations-enabled fuse-drawer-opened fuse-drawer-hover&quot;]/div[@class=&quot;fuse-drawer-content&quot;]/app-dedup-check[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;my-2 ng-star-inserted&quot;]/div[@class=&quot;mt-4 hover:bg-gray-100 dark:hover:bg-hover border justify-between flex border-gray-200 mx-10 rounded-md cursor-pointer ng-star-inserted&quot;]/div[@class=&quot;justify-end p-4&quot;]/mat-icon[@class=&quot;mat-icon notranslate text-primary dark:text-primary-400 mat-icon-no-color&quot;]/svg[1]</value>
+      <webElementGuid>b933639e-3c4e-4752-8258-471208b65351</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAVISHA SUKURDEEP (RAMSOKUL)'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3533512d-540d-497e-a731-431286724df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Lead'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>cab9739e-ed24-4147-ae72-7e0934752217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Lead'])[2]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>d825eb32-eac9-4414-972e-41b8b89a1f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>d8794e8f-b6be-4211-9e3b-25d38a322fb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

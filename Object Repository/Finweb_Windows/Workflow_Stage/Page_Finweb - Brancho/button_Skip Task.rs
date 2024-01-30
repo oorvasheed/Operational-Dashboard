@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Skip Task</name>
+   <tag></tag>
+   <elementGuidId>9e2ba87a-6270-465f-810c-3545f29478bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='actionButtons']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-button-base.mat-primary.mat-stroked-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4ada4be-ace4-446f-84e4-16bf712114bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-primary mat-stroked-button</value>
+      <webElementGuid>05c4098a-2a79-41e0-a6f7-904b7f10686b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Skip Task </value>
+      <webElementGuid>7dfcf4b9-cb60-4cd5-9da7-937fae6a950d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionButtons&quot;)/div[@class=&quot;flex justify-end px-4 border-t ng-star-inserted&quot;]/div[@class=&quot;py-3 pe-4 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-primary mat-stroked-button&quot;]</value>
+      <webElementGuid>077f6808-8db8-4756-83fd-c5da3744a4eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='actionButtons']/div/div/button</value>
+      <webElementGuid>331c762e-425d-42f7-8a1d-be5e0842b580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiate'])[1]/following::button[1]</value>
+      <webElementGuid>7b84f93d-364a-43be-9c02-689e688017d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Complete'])[1]/preceding::button[1]</value>
+      <webElementGuid>39b378fa-8f52-4fde-9ef3-e1dde96108b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>5aecd2db-f5a6-4727-9283-9dbded34c79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Skip Task ' or . = ' Skip Task ')]</value>
+      <webElementGuid>9f64fc90-efc8-4299-8552-7f9aaa02ff31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

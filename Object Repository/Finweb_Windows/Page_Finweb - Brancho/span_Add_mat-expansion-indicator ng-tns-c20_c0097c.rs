@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add_mat-expansion-indicator ng-tns-c20_c0097c</name>
+   <tag></tag>
+   <elementGuidId>52bcd289-9b9e-40a3-a518-f35db7896e8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-37']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-expansion-indicator.ng-tns-c205-558.ng-trigger.ng-trigger-indicatorRotate.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75defb3c-9bb6-4660-96ea-7286cd495efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-expansion-indicator ng-tns-c205-558 ng-trigger ng-trigger-indicatorRotate ng-star-inserted</value>
+      <webElementGuid>e0007e6b-344b-4564-a496-489664a6af72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-37&quot;)/span[@class=&quot;mat-expansion-indicator ng-tns-c205-558 ng-trigger ng-trigger-indicatorRotate ng-star-inserted&quot;]</value>
+      <webElementGuid>96461e09-3641-4ed0-852c-7fd56c0f5724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-37']/span[2]</value>
+      <webElementGuid>ed0e1601-65f3-44c2-9ff6-e35ae0296cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[2]/mat-expansion-panel-header/span[2]</value>
+      <webElementGuid>73523ec0-9510-480e-a232-0cf4196efa57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

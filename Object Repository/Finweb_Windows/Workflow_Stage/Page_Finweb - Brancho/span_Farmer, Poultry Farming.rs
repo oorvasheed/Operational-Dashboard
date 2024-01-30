@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Farmer, Poultry Farming</name>
+   <tag></tag>
+   <elementGuidId>9e70c1eb-ee26-407c-89a4-ad9eaa5843ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-140']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-140 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdf3a79b-95a9-4b77-aabf-0e1fc940637c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>8618c964-d504-4012-8e86-7b56387fa7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Farmer, Poultry Farming</value>
+      <webElementGuid>e8736ed9-0009-4c9a-8be0-8d331a6d894c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-140&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>7e7fc111-17eb-4760-ba23-ef18fbbcc7cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-140']/span</value>
+      <webElementGuid>7fdd0bb9-17f1-48ac-a807-49a0e5054517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skilled Workers In Animal (Livestock And Dairy) Production'])[1]/following::span[1]</value>
+      <webElementGuid>6201a1b2-58da-4c17-925b-6d25994a2c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mixed Crop Growers'])[1]/following::span[2]</value>
+      <webElementGuid>0c25fe49-b7fc-4100-9c31-c5f2e1fa0af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beekeeper'])[1]/preceding::span[1]</value>
+      <webElementGuid>9fa0c2cd-fb5a-4a25-87ce-67295667c468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forestry And Related Workers'])[1]/preceding::span[2]</value>
+      <webElementGuid>bd845099-db78-4681-9be7-9f22e32c8ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Farmer, Poultry Farming']/parent::*</value>
+      <webElementGuid>26ab4816-781a-4154-9f46-52c14f5f0256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[6]/span</value>
+      <webElementGuid>b83635d8-31fb-4b8a-8b0a-6da7989dec57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Farmer, Poultry Farming' or . = 'Farmer, Poultry Farming')]</value>
+      <webElementGuid>43799a28-882a-44e4-9b63-8be0c18d9f5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job Type_mat-select-value-61</name>
+   <tag></tag>
+   <elementGuidId>e2793160-e9c1-478d-82a9-f6a5577b4774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-61']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-61</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e83e9e80-6641-43dd-8b49-7655b6e8e0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c88-266</value>
+      <webElementGuid>300ba51a-5784-42f8-b9d2-a31e8072a291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-61</value>
+      <webElementGuid>353f1ab9-9e10-4694-abc0-f8b99c68c16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-61&quot;)</value>
+      <webElementGuid>2e6aa015-5a2f-48de-a4a8-9cf4f9f3dccb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-61']</value>
+      <webElementGuid>2b95aaee-d982-4c16-a9b2-cc241af237ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-60']/div/div</value>
+      <webElementGuid>13b53aec-77d4-4fec-8b55-9146d55f4360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Type'])[1]/following::div[11]</value>
+      <webElementGuid>a0d2c634-b614-40b7-af28-af566a9ba525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agricultural &amp; Fishery Skilled Workers'])[1]/following::div[13]</value>
+      <webElementGuid>f21e39c0-c7eb-4013-ae6c-21a3c1e49dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Titles'])[1]/preceding::div[3]</value>
+      <webElementGuid>8bbc1d3e-d629-40ac-bcba-6225c4df4c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vocational Education'])[1]/preceding::div[7]</value>
+      <webElementGuid>0f7ac624-2cff-4401-83dc-62cc511e0bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[7]/div/div/div/div/div/mat-select/div/div</value>
+      <webElementGuid>e338bb6c-3ed6-4b41-bd9f-e4a870d8c1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-61']</value>
+      <webElementGuid>702dc861-f1c4-481d-98fa-365188eec919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

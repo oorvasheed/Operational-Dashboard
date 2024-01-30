@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Address_Save</name>
+   <tag></tag>
+   <elementGuidId>0dd64d2b-5fb3-44fc-af8e-e62d8b067f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = ' Save ' or . = ' Save ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-flat-button.mat-button-base.mat-primary.mat-button-disabled.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d4b0ab7-044a-48b2-b4a1-1888831855cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>98b011c5-6bf3-492e-a89a-f48ef76fa4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6ea9f10-1e0f-4b85-a3e7-1d6bc3688419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-flat-button mat-button-base mat-primary mat-button-disabled ng-star-inserted</value>
+      <webElementGuid>6173e46f-33ce-498c-b543-d7e50d2ebb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f10ce505-e9e1-41f4-817c-fa866d2ca606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>63a1323c-ac09-484a-903e-434f7dac4edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default ng-tns-0-7&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-view-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full bg-card overflow-hidden h-screen ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/div[@class=&quot;flex flex-auto&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/div[@class=&quot;w-10/12 flex&quot;]/div[@class=&quot;w-full flex h-full&quot;]/div[@class=&quot;w-full overflow-auto relative h-full&quot;]/div[@class=&quot;w-full flex ng-star-inserted&quot;]/div[@class=&quot;p-4 mb-12 w-full overflow-auto main-content-height ng-star-inserted&quot;]/app-address-v2[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex justify-end space-x-4 mt-4 mr-8 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base mat-primary mat-button-disabled ng-star-inserted&quot;]</value>
+      <webElementGuid>f651153e-03c6-4281-91c7-bba7a489b596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f9de59b0-37ac-40c4-b2e2-8ae6fccb0d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>a1537bc7-112c-4b79-be35-f0c69facba7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landmark'])[1]/following::button[2]</value>
+      <webElementGuid>814b3621-8ab6-41d9-a821-c0ba2aa01c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Task'])[1]/preceding::button[1]</value>
+      <webElementGuid>e0849319-cc3d-4954-b306-f6a46b781edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>7f1309cf-eada-4f58-9800-11bb72538088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>47aceb05-6de1-4385-bfaa-6d9abde0ccfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Based on day</name>
+   <tag></tag>
+   <elementGuidId>9754cab4-7a61-4f0b-b2e3-077d94226be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mat-button-toggle-1-button']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-toggle-label-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>01e23419-c761-448c-a1a6-4b1ee4ff2c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-toggle-label-content</value>
+      <webElementGuid>0cf79086-864e-4fcb-8c30-2125ada7981c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Based on day</value>
+      <webElementGuid>6b8f99e1-8359-4005-85ed-03a1ded43edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-button-toggle-1-button&quot;)/span[@class=&quot;mat-button-toggle-label-content&quot;]</value>
+      <webElementGuid>1d4625e4-97dd-4c92-8d38-41cdfd8c320e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='mat-button-toggle-1-button']/span</value>
+      <webElementGuid>f0af0fe0-2691-446b-9904-2af8ad14c5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional condition'])[1]/following::span[1]</value>
+      <webElementGuid>53c08425-bf30-44e4-8e65-5f8d804dce23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Months'])[1]/following::span[3]</value>
+      <webElementGuid>5a7c064a-3a62-42ba-9398-609dd727a98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Based on date'])[1]/preceding::span[3]</value>
+      <webElementGuid>4bf9f3fd-0203-4068-a403-3a3fa6b33947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last day of the month'])[1]/preceding::span[6]</value>
+      <webElementGuid>a6800fb2-fe8b-498f-8014-1777dad0cc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Based on day']/parent::*</value>
+      <webElementGuid>a2f5b954-63da-4d6b-9b72-f8793027f686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-button-toggle/button/span</value>
+      <webElementGuid>88e473f0-6ea0-4a13-8e15-2f5e552d6d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Based on day' or . = 'Based on day')]</value>
+      <webElementGuid>38a1b742-02f5-44af-8192-3d237eb618bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

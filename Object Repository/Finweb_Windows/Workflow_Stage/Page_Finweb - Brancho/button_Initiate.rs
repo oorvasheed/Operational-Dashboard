@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Initiate</name>
+   <tag></tag>
+   <elementGuidId>0a7fef46-c23e-48ae-8f87-f0007de9fcbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2024'])[1]/preceding::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.ml-2.mat-flat-button.mat-button-base.mat-primary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b3d8783-e6fa-4607-9617-9ae48592f17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>1c37d9b8-629d-4a20-8ff7-9c5fe92560f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator ml-2 mat-flat-button mat-button-base mat-primary ng-star-inserted</value>
+      <webElementGuid>c5480db6-4dc3-4975-9051-da832a6d6b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Initiate </value>
+      <webElementGuid>9ba5d75f-48bd-4c5a-9a97-ab7abf1f67ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default ng-tns-0-7&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-view-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full bg-card overflow-hidden h-screen ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/div[@class=&quot;flex flex-auto&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/div[@class=&quot;w-10/12 flex&quot;]/div[@class=&quot;w-full flex h-full&quot;]/div[@class=&quot;w-full overflow-auto relative h-full&quot;]/div[@class=&quot;w-full flex ng-star-inserted&quot;]/div[@class=&quot;p-4 mb-12 w-full overflow-auto main-content-height ng-star-inserted&quot;]/app-kyc-verification[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col ng-star-inserted&quot;]/div[@class=&quot;w-full mb-3 flex flex-wrap&quot;]/div[@class=&quot;flex flex-wrap w-6/12 border rounded-lg border-gray-200 p-4 justify-between&quot;]/div[2]/button[@class=&quot;mat-focus-indicator ml-2 mat-flat-button mat-button-base mat-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>d398299f-5765-41ab-a2da-3142ca871f73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>46b28613-3302-4c9f-9cc9-08e772b53692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/button</value>
+      <webElementGuid>a46de0df-9048-4e8f-8f19-1cf210acdd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Initiate ' or . = ' Initiate ')]</value>
+      <webElementGuid>53eca918-b806-4e3d-b0c7-6e289c6fcdf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

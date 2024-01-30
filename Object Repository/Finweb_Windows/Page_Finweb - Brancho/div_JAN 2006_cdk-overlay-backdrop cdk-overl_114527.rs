@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JAN 2006_cdk-overlay-backdrop cdk-overl_114527</name>
+   <tag></tag>
+   <elementGuidId>7f66299a-13c4-4bf8-81a1-224fb5510890</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f258c5d-2082-4ff4-b33b-5584522c5e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>213c7479-ef66-4e4f-8613-7a1be5f6637a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden ng-tns-0-6 light theme-default&quot;]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>2b512bec-131b-4f1d-8179-dba65743bebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>fe345b86-e9df-4119-85ea-049e4e36e2c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

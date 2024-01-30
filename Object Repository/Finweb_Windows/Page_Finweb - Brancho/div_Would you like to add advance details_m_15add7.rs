@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Would you like to add advance details_m_15add7</name>
+   <tag></tag>
+   <elementGuidId>e0be208b-f99d-48d2-989f-d87a12550e9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-slide-toggle[@id='mat-slide-toggle-9']/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-slide-toggle-bar.mat-slide-toggle-bar-no-side-margin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2188384-65aa-4bd4-95da-6cda593427c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-slide-toggle-bar mat-slide-toggle-bar-no-side-margin</value>
+      <webElementGuid>f8b484cf-c76f-417f-8440-d1c31fec9d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-slide-toggle-9&quot;)/label[@class=&quot;mat-slide-toggle-label&quot;]/div[@class=&quot;mat-slide-toggle-bar mat-slide-toggle-bar-no-side-margin&quot;]</value>
+      <webElementGuid>8400f483-209e-445a-9e1c-ff04e6fbc0ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-slide-toggle[@id='mat-slide-toggle-9']/label/div</value>
+      <webElementGuid>64f77a4d-5ec5-4c92-9b27-bdebeadade3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to add advance details?'])[1]/following::div[1]</value>
+      <webElementGuid>e1de13ac-6301-4e8d-9402-176d615aea0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIC Value'])[1]/following::div[6]</value>
+      <webElementGuid>f7879111-b29d-409f-8108-56544336bcca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::div[6]</value>
+      <webElementGuid>4ea736d3-c872-4486-a158-dd1329fcc998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2006'])[1]/preceding::div[9]</value>
+      <webElementGuid>5dde77fd-0ad6-4924-890b-1d06ff6d2ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>d553aeea-c58f-48f9-b83d-04457f0f2d4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

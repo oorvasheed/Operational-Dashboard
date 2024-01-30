@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Client Classification_mat-select-value-105</name>
+   <tag></tag>
+   <elementGuidId>bd520d62-4bf6-4f0f-bf3e-7214ba6e09e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-105']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-105</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ef9866e-be35-4e4a-a6f8-14759d6497f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c88-452</value>
+      <webElementGuid>ce4b132e-6ebd-4e68-8ce5-bc8e28138bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-105</value>
+      <webElementGuid>bb70be12-2053-4710-8b0d-dc2d79abd382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-105&quot;)</value>
+      <webElementGuid>ed9b96f2-7a54-4c3b-9b17-a0a1c1cf6b65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-105']</value>
+      <webElementGuid>a24f545a-6e93-4439-b5d5-478e51ce9437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-104']/div/div</value>
+      <webElementGuid>83ede7a2-796a-41e7-a1fe-686e46461f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Classification'])[1]/following::div[10]</value>
+      <webElementGuid>3d57e32c-c82f-49e2-8ec4-d64fb1c44113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual'])[1]/following::div[12]</value>
+      <webElementGuid>32fe2140-ec00-49e5-8024-be63215dc26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/preceding::div[3]</value>
+      <webElementGuid>80811708-f51f-4d8d-8522-65b4cd4887ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::div[7]</value>
+      <webElementGuid>eec0fa69-d208-47a1-8e24-23974c92705d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div[2]/div[2]/mat-form-field/div/div/div/mat-select/div/div</value>
+      <webElementGuid>f8b1f852-8ac6-4223-9c31-fee7ca949203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-105']</value>
+      <webElementGuid>52d2ceaf-f7c1-410d-9a1b-26746593951c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Agriculture Forestry And Fishing</name>
+   <tag></tag>
+   <elementGuidId>4473f637-3e05-441d-8f09-3e932cfbdbdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-73']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-73 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da5d0b16-943b-4c3e-8dbe-d5f796fec9f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>0551e0d2-1d25-45ce-b94c-702620e75dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agriculture Forestry And Fishing</value>
+      <webElementGuid>5cdd4c48-2e5d-4668-af08-c64347c58bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-73&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>143e23c6-b99d-4079-a5f6-d258371f015e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-73']/span</value>
+      <webElementGuid>431cd4f0-eb7f-44ac-a2ba-8dfece1ca43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrative And Support Service Activities'])[1]/following::span[1]</value>
+      <webElementGuid>45594fb4-4178-44ff-81a5-2e075f1aa576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accommodation And Food Service Activities'])[1]/following::span[3]</value>
+      <webElementGuid>f62295ec-a457-49ba-8526-331e254c8ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arts Entertainment And Recreation'])[1]/preceding::span[1]</value>
+      <webElementGuid>c96e51be-abf8-4b81-af44-ce52d5174550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Construction'])[1]/preceding::span[2]</value>
+      <webElementGuid>c02f4d90-b112-4cda-a491-7b2f82852598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agriculture Forestry And Fishing']/parent::*</value>
+      <webElementGuid>1447dd71-8ac6-4a15-be1a-b38a371ec068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>4b753c68-c1eb-42fb-952c-37878a38590e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Agriculture Forestry And Fishing' or . = 'Agriculture Forestry And Fishing')]</value>
+      <webElementGuid>2263233a-3115-42d6-b055-82d5c7b93da2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

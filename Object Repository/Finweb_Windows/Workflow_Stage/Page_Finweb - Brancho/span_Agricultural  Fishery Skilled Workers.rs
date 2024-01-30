@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Agricultural  Fishery Skilled Workers</name>
+   <tag></tag>
+   <elementGuidId>68078b61-c0a9-471c-801a-d2e53c26561e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-91']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-91 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ba9de11-6683-47f1-9820-bb03734c7615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>1ef251bb-7529-4e2e-a519-f1e02600b248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agricultural &amp; Fishery Skilled Workers</value>
+      <webElementGuid>99d076b3-34a4-4be5-ae5c-df6a69a0bfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-91&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>80b4a7a5-2378-49f2-bd5d-41cac5183bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-91']/span</value>
+      <webElementGuid>76431d28-d2f5-4661-9d31-956d69f9a224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Applicable'])[2]/following::span[1]</value>
+      <webElementGuid>cc2766a8-f4b0-441f-9737-ce1316d58146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2024'])[1]/following::span[2]</value>
+      <webElementGuid>abc30f5f-da1c-476d-bd6e-4a7b52b8c985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building &amp; Construction Related Workers [Excl. Electricians]'])[1]/preceding::span[1]</value>
+      <webElementGuid>35d76c8d-0dfb-412c-a6bb-ca0c721b386d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chief Executives And Senior Officials'])[1]/preceding::span[2]</value>
+      <webElementGuid>bb710b0d-95fe-4447-a254-7cfd1bfa209d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Agricultural &amp; Fishery Skilled Workers']/parent::*</value>
+      <webElementGuid>92f71dce-5b61-4d04-938c-56a885903b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>d89a9430-9684-4bbd-8404-323dc05a4876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Agricultural &amp; Fishery Skilled Workers' or . = 'Agricultural &amp; Fishery Skilled Workers')]</value>
+      <webElementGuid>7fe54f03-ccfa-4398-b088-6cfc9353d2a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

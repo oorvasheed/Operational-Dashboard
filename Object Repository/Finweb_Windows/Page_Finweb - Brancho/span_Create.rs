@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create</name>
+   <tag></tag>
+   <elementGuidId>b64aecbb-2819-4456-b5ec-71e68f4c3103</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-flat-button.mat-button-base.mat-primary.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a5a6d87-b802-48cb-8e64-f06a057ad2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>6ae14c61-3eb9-4565-8315-fb1ee60b14e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create </value>
+      <webElementGuid>2a508c55-165c-4216-99d3-7c087a7a641a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden ng-tns-0-6 light theme-default&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-customer-create-option[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-full h-full bg-white ng-star-inserted&quot;]/div[@class=&quot;w-full h-full flex-wrap pt-10 px-6 flex flex-row&quot;]/div[@class=&quot;w-9/12 px-8 mt-20 mx-4 ml-auto&quot;]/create-customer[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-auto ng-star-inserted&quot;]/div[@class=&quot;flex flex-auto w-full bg-white h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full mb-20 flex flex-col ng-star-inserted&quot;]/div[@class=&quot;flex justify-end fixed right-0 bottom-0 left-0 p-4 border-t bg-card z-10&quot;]/div[1]/button[@class=&quot;mat-focus-indicator mat-flat-button mat-button-base mat-primary ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>0a49466b-2665-4875-9140-e8cee8b1ca10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/following::span[2]</value>
+      <webElementGuid>30aa85b5-098d-4ea9-900c-69dc9db60cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hindu'])[1]/following::span[3]</value>
+      <webElementGuid>b5db2f4d-d4e5-434a-828c-84b9fb231124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2006'])[1]/preceding::span[3]</value>
+      <webElementGuid>94129456-c648-4fa6-a6b5-16c86d773f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>4a32d41f-6f46-489a-805d-0bcbe543b148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>4fcd5219-c4c5-47c9-bba0-8b0bf02f94a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create ' or . = 'Create ')]</value>
+      <webElementGuid>3a35662f-eaf5-45ce-a26c-99976e322689</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
