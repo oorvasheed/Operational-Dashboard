@@ -34,5 +34,3 @@ Mobile.tap(findTestObject('Start Page/android.widget.Button - Next_1'), 0)
 
 Mobile.tap(findTestObject('Start Page/android.widget.Button-Continue(1)'), 0)
 
-WebUI.callTestCase(findTestCase('New Loan_Application/Registration_and_Login_Page'), [:], FailureHandling.STOP_ON_FAILURE)
-

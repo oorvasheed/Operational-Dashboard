@@ -20,13 +20,23 @@ import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as Mobil
 import io.appium.java_client.android.AndroidDriver as AndroidDriver
 import io.appium.java_client.android.nativekey.AndroidKey as AndroidKey
 
-WebUI.click(findTestObject('Object Repository/Admin_Portal/Page_CIM  Applicants Details/a_View  Verify_2'))
+WebUI.openBrowser('')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Admin_Portal/Page_CIM  Applicants Details/select_--Select--Verification In ProgressAp_924fbf_2'), 
-    '2', true)
+WebUI.navigateToUrl('https://cim-uat.finflux.io/leads/2258')
 
-WebUI.setText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Applicants Details/textarea_Remark_docRemarkId_2'), 
-    'k')
+WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/div_Additional AddressAddress Type'))
 
-WebUI.click(findTestObject('Object Repository/Admin_Portal/Page_CIM  Applicants Details/button_Submit_1'))
+WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/span_Residential Address'))
+
+WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/input_Address Type_mat-input-9'), 
+    'asdfasdf')
+
+WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/fieldset_Address Line One Address Line TwoO_411587'))
+
+WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/input_Ownership Type_mat-input-11'), 
+    'port')
+
+WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/span_PORT LOUIS SOUTH'))
+
+WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Address_Details/Page_Finweb - Brancho/button_Save'))
 

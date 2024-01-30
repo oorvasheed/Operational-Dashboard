@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://uat-admin.cimfinance.mu/AdminPhase4/Login')
+WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.setText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_UserName'), 'navisha.sukurdeep@cim.mu')
+WebUI.setText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_UserName'), GlobalVariable.username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_Password'), '7Dxoto1EjKfoc3Lmys/f5Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/button_Sign In'))
 

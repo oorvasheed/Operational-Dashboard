@@ -18,7 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 //Mobile.tap(findTestObject('Object Repository/Loan_Application/android.widget.RelativeLayout'), 0)
-
 Mobile.tapAtPosition(321, 619, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.waitForElementPresent(findTestObject('Object Repository/Loan_Application/android.widget.Button - Apply for New Loan'), 
@@ -161,4 +160,6 @@ Mobile.tap(findTestObject('Loan_Application/android.widget.Button - Confirm_Canc
 Mobile.waitForElementPresent(findTestObject('Loan_Application/android.widget.Button -Success_Done_Cancel'), 5, FailureHandling.OPTIONAL)
 
 Mobile.tap(findTestObject('Loan_Application/android.widget.Button -Success_Done_Cancel'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.closeApplication()
 

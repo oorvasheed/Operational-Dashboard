@@ -52,25 +52,25 @@ Mobile.tapAtPosition(495, 957, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1113, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
-
 Mobile.tapAtPosition(79, 1113, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
+Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1271, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(495, 957, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1113, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
-
 Mobile.tapAtPosition(79, 1113, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
+Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1271, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(4, FailureHandling.OPTIONAL)
 
@@ -82,30 +82,4 @@ Mobile.tapAtPosition(100, 1283, FailureHandling.STOP_ON_FAILURE)
 
 //Mobile.tap(findTestObject('Registration/android.widget.ImageView-Home_icon'), 0)
 WebUI.delay(8, FailureHandling.OPTIONAL)
-
-/*/Mobile.tap(findTestObject('Registration/android.widget.ImageView-Profile'), 0)
-
-Mobile.tap(findTestObject('Registration/android.widget.ImageView-Logout'), 0)
-
-Mobile.tap(findTestObject('Registration/android.widget.Button - Yes'), 0)
-
-Mobile.waitForElementPresent(findTestObject('Login/android.widget.Button - Tap to Login'), 4, FailureHandling.OPTIONAL)
-
-Mobile.tap(findTestObject('Login/android.widget.Button - Tap to Login'), 0)
-
-Mobile.delay(3, FailureHandling.OPTIONAL)
-
-Mobile.tapAtPosition(79, 1113, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tapAtPosition(288, 1271, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tapAtPosition(288, 1113, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tapAtPosition(495, 957, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
-/*/
-WebUI.callTestCase(findTestCase('New Loan_Application/Loan_Application'), [:], FailureHandling.STOP_ON_FAILURE)
 
