@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case_Document</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98b52be3-c5fc-464d-996f-a158f18d1ee7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34dd0926-c44c-4a5c-8d8f-a8eed00b80c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\I1675\\Downloads\\ID.png'</defaultValue>
+      <description></description>
+      <id>34dd0926-c44c-4a5c-8d8f-a8eed00b80c2</id>
+      <masked>false</masked>
+      <name>file_inc</name>
+   </variable>
+</TestCaseEntity>

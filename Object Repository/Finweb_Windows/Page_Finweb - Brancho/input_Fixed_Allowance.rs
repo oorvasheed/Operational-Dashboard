@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Fixed_Allowance</name>
+   <tag></tag>
+   <elementGuidId>a32259e8-b60b-4f44-ab46-0cf58468681a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/app-root[1]/layout[1]/empty-layout[1]/div[1]/div[1]/app-view-workflow[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/app-dynamic-form-component[1]/mat-stepper[1]/div[2]/div[2]/form[1]/fieldset[1]/mat-form-field[3]/div[1]/div[1]/div[2]/div[1]/div[1]/input[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

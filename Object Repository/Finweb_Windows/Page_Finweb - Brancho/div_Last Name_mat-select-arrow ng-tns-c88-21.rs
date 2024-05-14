@@ -6,12 +6,12 @@
    <elementGuidId>3ab1f760-539d-4391-865c-dc8bef6bdb6d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.mat-select-arrow.ng-tns-c88-21</value>
+         <key>XPATH</key>
+         <value>//mat-label[text()='Gender']/ancestor::span/parent::div/mat-select</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-select[@id='mat-select-4']/div/div[2]/div</value>
+         <key>CSS</key>
+         <value>div.mat-select-arrow.ng-tns-c88-21</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>743116e1-0225-45cb-a7c9-4285d59ef83d</webElementGuid>
+      <webElementGuid>727dcff6-a349-4c6d-b5dc-03ae025fa37e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-arrow ng-tns-c88-21</value>
-      <webElementGuid>8dd8f9a6-cceb-4bbf-9e20-498cb2161d6a</webElementGuid>
+      <webElementGuid>bef78c7f-5331-44e0-a20d-dd7a09e195f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-4&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c88-21&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c88-21&quot;]/div[@class=&quot;mat-select-arrow ng-tns-c88-21&quot;]</value>
-      <webElementGuid>c8bab082-e892-462c-9020-5a5ed7d56e37</webElementGuid>
+      <webElementGuid>fa90e071-74b7-4489-9db6-f823ddc54306</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='mat-select-4']/div/div[2]/div</value>
-      <webElementGuid>226a0fbe-9578-442a-90a3-4f8425acfb56</webElementGuid>
+      <webElementGuid>419ca60d-e2ad-45f4-8f76-c2277af46efb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[4]/div/div/div/mat-select/div/div[2]/div</value>
-      <webElementGuid>47ec0267-f8d8-41b2-b983-3bdad8486fc3</webElementGuid>
+      <webElementGuid>9e3658be-11ea-46c0-b73e-aa8747c8f4b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

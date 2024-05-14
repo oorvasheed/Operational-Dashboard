@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employment Type_List</name>
+   <tag></tag>
+   <elementGuidId>dd15f18f-9dbf-4083-9032-685ba1aed0db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-flex.ng-tns-c32-254</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96147649-b152-47b3-beb8-d2b883e9eb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-flex ng-tns-c32-254</value>
+      <webElementGuid>f403d0df-876a-4808-bfa6-7b3c9ac5af30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Self Employed No PermitEmployment Type</value>
+      <webElementGuid>03f0f979-8835-4e44-bb81-c5a62451540d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-2-0&quot;)/form[@class=&quot;flex flex-wrap ng-star-inserted ng-untouched ng-pristine ng-valid&quot;]/fieldset[@class=&quot;flex flex-wrap w-full form-container&quot;]/mat-form-field[@class=&quot;mat-form-field form-fields ng-tns-c32-254 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid ng-star-inserted mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c32-254&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c32-254&quot;]</value>
+      <webElementGuid>3dcfb370-d379-4127-a5f9-b0cd18106bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-2-0']/form/fieldset/mat-form-field/div/div</value>
+      <webElementGuid>5b4cd096-3a54-408f-8cb3-1d267914fe7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div</value>
+      <webElementGuid>8846995e-7bfb-46e8-9c51-e012496f7b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Self Employed No PermitEmployment Type' or . = 'Self Employed No PermitEmployment Type')]</value>
+      <webElementGuid>773ca3b2-d771-4ede-84c8-cc8e342f7fe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

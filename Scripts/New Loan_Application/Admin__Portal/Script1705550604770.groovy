@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl('https://cim-uat.finflux.io/sign-in')
 
-WebUI.setText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_UserName'), GlobalVariable.username)
+WebUI.setText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_UserName'), 'navishas')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_Password'), GlobalVariable.password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/input_Password'), '7Dxoto1EjKfoc3Lmys/f5Q==')
 
 WebUI.click(findTestObject('Object Repository/Admin_Portal/Page_CIM  Login/button_Sign In'))
 

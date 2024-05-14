@@ -16,7 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-Mobile.startApplication('C:\\Users\\I1675\\Downloads\\Mo_Finas_v1.0.6.23_27Dec23_With DKYC.apk', true)
+Mobile.startApplication('C:\\Users\\I1675\\Downloads\\Mo_Finas_v1.0.6.23_08May2024 (uatRelease).apk', false)
 
 Mobile.tap(findTestObject('Object Repository/Registration/android.widget.RelativeLayout'), 0)
 

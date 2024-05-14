@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_occupationCode</name>
+   <tag></tag>
+   <elementGuidId>a96bad9a-4e32-46e8-a65a-fce31bf332d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', &quot;'&quot;, '-1', &quot;'&quot;, '')])[11]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca6e02c5-b5c2-44b6-9ea9-27667b4364bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-700 font-bold w-8/12</value>
+      <webElementGuid>03746976-1625-4cd2-94f1-39170dcd5e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>occupationCode</value>
+      <webElementGuid>d7c739e4-13e8-4677-a3ff-a5a312592fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default ng-tns-0-6&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-view-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full bg-card overflow-hidden h-screen ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/div[@class=&quot;flex flex-auto&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/div[@class=&quot;w-10/12 flex&quot;]/div[@class=&quot;w-full flex h-full&quot;]/div[@class=&quot;w-full overflow-auto relative h-full&quot;]/div[@class=&quot;w-full flex ng-star-inserted&quot;]/div[@class=&quot;p-4 mb-12 w-full overflow-auto main-content-height ng-star-inserted&quot;]/app-credit-scorecard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/app-scorcard-input-output[@class=&quot;w-full flex&quot;]/div[@class=&quot;w-6/12 ng-star-inserted&quot;]/div[@class=&quot;border rounded-md p-4 mb-4 ng-star-inserted&quot;]/ul[@class=&quot;mt-2&quot;]/li[@class=&quot;flex mt-2 ng-star-inserted&quot;]/div[@class=&quot;text-gray-700 font-bold w-8/12&quot;]</value>
+      <webElementGuid>b400d03b-d1be-4437-b604-24265614e274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', &quot;'&quot;, '-1', &quot;'&quot;, '')])[11]/following::div[1]</value>
+      <webElementGuid>edbc3ec9-98db-4af9-8399-fc50fd96dd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrearsGreaterThan2Months'])[3]/following::div[3]</value>
+      <webElementGuid>6e6b60dd-a093-4771-bddd-c1af515ea785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', &quot;'&quot;, 'SEN', &quot;'&quot;, '')])[3]/preceding::div[1]</value>
+      <webElementGuid>b14017db-0b39-4879-b750-834ccdce29cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='numberAccountsSettedBNPL'])[3]/preceding::div[3]</value>
+      <webElementGuid>a881b058-a74b-440b-ba6e-e4d58fdcb377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-credit-scorecard/div/div/app-scorcard-input-output/div[2]/div/ul/li[33]/div</value>
+      <webElementGuid>85a63700-5d67-4298-8fa4-6bd8ddc0d264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'occupationCode' or . = 'occupationCode')]</value>
+      <webElementGuid>5d11864b-3cd6-4c73-a298-ac14031b6457</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

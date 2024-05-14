@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='Password']</value>
+         <value>//input[@id='password']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a86c4297-237e-42d9-87f1-7a0bd4d1cdae</webElementGuid>
+      <webElementGuid>36d3d81e-8916-409e-b314-6894c16890b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>86389b82-52e9-4d11-81f7-1333383b513b</webElementGuid>
+      <webElementGuid>5d6fa105-dba5-4ca4-9499-dfd26b2fcaed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>569828c0-8b29-4a43-ba97-fece236d21cb</webElementGuid>
+      <webElementGuid>d3775d55-1f02-4843-989b-5d967334e896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>62db481f-6b17-4648-9876-f86af67d045d</webElementGuid>
+      <webElementGuid>53984026-df1d-4845-acc0-19d044ae6d20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Password field is required.</value>
-      <webElementGuid>b71a93d5-6d4d-4821-ba5d-1ebc023764d0</webElementGuid>
+      <webElementGuid>4402d922-e373-4eae-976b-d87886dc8e1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>63c2bf39-796f-4a27-9cc5-74f41ee1cf06</webElementGuid>
+      <webElementGuid>40f580ec-0aea-4a8c-a16d-a14ecef2a902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>c5127335-8cfe-495a-9fc2-35f9ae626d0c</webElementGuid>
+      <webElementGuid>2d42dab9-eccf-4f09-ade7-7c6ff45ebeb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>d00c4a33-d457-41d7-98ca-c0ddc5a52998</webElementGuid>
+      <webElementGuid>874f0505-6255-4c36-b09f-a4d6359263af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>6fb1435f-7a38-405b-9926-c62086ff6aa5</webElementGuid>
+      <webElementGuid>f02bbef4-0014-436c-bd9b-ac1fd436ff09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Password&quot;)</value>
-      <webElementGuid>45b608bf-496f-4505-a9d0-869ba64a151d</webElementGuid>
+      <webElementGuid>b47cb354-92af-4a7e-9e98-129ec53a704a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Password']</value>
-      <webElementGuid>a02a6089-f3de-41d4-9eac-d24756d1fda9</webElementGuid>
+      <webElementGuid>ac7aca04-ddeb-4162-a52b-38269f25a96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>cdaca593-2c00-4b4a-ad66-75848b98c8e3</webElementGuid>
+      <webElementGuid>8cb0a1d2-ada2-40d8-8dda-1f9d0e48fe5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Password' and @name = 'Password' and @placeholder = 'Password' and @type = 'password']</value>
-      <webElementGuid>99c51080-b075-44b9-b4b6-c731f7d7c9e4</webElementGuid>
+      <webElementGuid>cbd96680-6d5c-4ff5-8c5f-1452c70b36e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

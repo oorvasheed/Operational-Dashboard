@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.instagram.com/direct/inbox/')
+WebUI.navigateToUrl('https://cim-uat.finflux.io/sign-in?redirectURL=%2Fleads')
 
 WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/span_Customers'))
 

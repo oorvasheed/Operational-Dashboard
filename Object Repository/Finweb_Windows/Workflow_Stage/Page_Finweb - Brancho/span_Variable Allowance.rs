@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Variable Allowance</name>
+   <tag></tag>
+   <elementGuidId>b526aa3f-7d3f-4823-b4b2-d7848ce6dd4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-form-field-label-wrapper.ng-tns-c32-231</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-5-1']/form/fieldset/mat-form-field[4]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a873c87c-f57b-49e0-9035-ea6e9f2a05c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-label-wrapper ng-tns-c32-231</value>
+      <webElementGuid>ba30a3fb-90ed-45fd-a61f-0d463daabd63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Variable Allowance</value>
+      <webElementGuid>fc63636d-7b58-43fd-9c69-44e56fc47c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-5-1&quot;)/form[@class=&quot;flex flex-wrap ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/fieldset[@class=&quot;flex flex-wrap w-full form-container&quot;]/mat-form-field[@class=&quot;mat-form-field form-fields ng-tns-c32-231 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c32-231&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c32-231&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c32-231&quot;]/span[@class=&quot;mat-form-field-label-wrapper ng-tns-c32-231&quot;]</value>
+      <webElementGuid>1d111cca-1ca7-49ad-931e-61ac09ab4c42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-5-1']/form/fieldset/mat-form-field[4]/div/div/div[2]/span</value>
+      <webElementGuid>b4b41e96-80e4-4bc0-a3e3-88ac6493b186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs'])[4]/following::span[1]</value>
+      <webElementGuid>61812de6-6b66-4c0e-8d71-4b8a0ceabf1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Commision'])[1]/following::span[3]</value>
+      <webElementGuid>c3ee7d82-9e87-405a-9f6a-519613507448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e6959ce-5fe8-489e-ba9c-7b4ed56b40e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[4]/div/div/div[2]/span</value>
+      <webElementGuid>861a4c15-159d-4fb8-94a2-13330d8e7593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Variable Allowance' or . = 'Variable Allowance')]</value>
+      <webElementGuid>0fe302eb-1c98-4ea5-83e5-35af0b4135a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

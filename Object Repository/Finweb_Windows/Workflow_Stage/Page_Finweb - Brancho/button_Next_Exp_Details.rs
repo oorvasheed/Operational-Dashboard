@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next_Exp_Details</name>
+   <tag></tag>
+   <elementGuidId>c828d8eb-78f7-4bea-acc2-b182e9a7205d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Back']/ancestor::div[15]/div/app-view-workflow/div/div[2]/div[2]/div/div[2]/div/div/workflow-step-header/following-sibling::div[1]/div/app-dynamic-form-component/mat-stepper/div[2]/div[3]/form/following-sibling::div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-step-content-5-2 > div.relative.w-full.border-t.p-4.mt-2.ng-star-inserted > div.float-right.mr-4 > button.mat-focus-indicator.mat-stepper-next.mat-flat-button.mat-button-base.mat-primary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>def8b0e2-e567-4996-af38-8d99931bc43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c62e731-74ed-4e94-966f-ef80966ae78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-stepper-next mat-flat-button mat-button-base mat-primary ng-star-inserted</value>
+      <webElementGuid>0a29e45a-d9a5-455d-b245-9dc8f9a7dad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>c7ec4dee-a405-460e-8862-aee8194c49ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-5-2&quot;)/div[@class=&quot;relative w-full border-t p-4 mt-2 ng-star-inserted&quot;]/div[@class=&quot;float-right mr-4&quot;]/button[@class=&quot;mat-focus-indicator mat-stepper-next mat-flat-button mat-button-base mat-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>59034321-5eae-4f01-8681-43c5377f6bd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>47fadbfc-1ecd-4ae8-ae10-f6017721646e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-5-2']/div/div/button[2]</value>
+      <webElementGuid>6385aa06-3afe-4618-8494-b9f037de8b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[2]/following::button[1]</value>
+      <webElementGuid>e04ce207-eeec-4ec1-936d-065f9ae0ccfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rent(if any)'])[1]/following::button[2]</value>
+      <webElementGuid>bd8b5e27-80f2-417c-98fc-cabe50117d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Statement'])[1]/preceding::button[1]</value>
+      <webElementGuid>b6bb5ed0-d147-4186-b318-793dd9388b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button[2]</value>
+      <webElementGuid>1248e0fb-d056-43d9-b983-c8f562f03c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Next ' or . = 'Next ')]</value>
+      <webElementGuid>bf594e0f-18e3-4a3e-879d-2ecbf4f65ef7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

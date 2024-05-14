@@ -6,12 +6,12 @@
    <elementGuidId>837bd843-0b44-443d-a033-6609658691f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[(text() = 'Town' or . = 'Town')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.mat-form-field-flex.ng-tns-c32-46</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ownership Type'])[1]/following::div[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>86bd5969-190b-4628-9118-26661410523f</webElementGuid>
+      <webElementGuid>8d87dbae-de4e-43f2-8dc7-e37e0272ae48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-flex ng-tns-c32-46</value>
-      <webElementGuid>cc96df56-22a2-4996-93f0-3892c8a9791e</webElementGuid>
+      <webElementGuid>d12cc3bf-64e4-47d2-bc7e-8a790cd561fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Town</value>
-      <webElementGuid>84c3e284-49ca-477d-a5d8-10a617a37fec</webElementGuid>
+      <webElementGuid>e77f0b0c-0fa6-42f3-bebe-20e76d9e1987</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden ng-tns-0-6 light theme-default&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-view-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full bg-card overflow-hidden h-screen ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/div[@class=&quot;flex flex-auto&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/div[@class=&quot;w-10/12 flex&quot;]/div[@class=&quot;w-full flex h-full&quot;]/div[@class=&quot;w-full overflow-auto relative h-full&quot;]/div[@class=&quot;w-full flex ng-star-inserted&quot;]/div[@class=&quot;p-4 mb-12 w-full overflow-auto main-content-height ng-star-inserted&quot;]/app-address-v2[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;w-full pt-4 ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/app-dynamic-form-component[@class=&quot;w-full&quot;]/form[@class=&quot;flex flex-wrap ng-star-inserted ng-pristine ng-untouched ng-valid&quot;]/fieldset[@class=&quot;flex flex-wrap w-full form-container&quot;]/mat-form-field[@class=&quot;mat-form-field form-fields ng-tns-c32-46 mat-primary ng-star-inserted mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-should-float mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c32-46&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c32-46&quot;]</value>
-      <webElementGuid>2c4f7ec4-f06d-4132-800b-2517708703f2</webElementGuid>
+      <webElementGuid>c99f52f5-a045-436d-a936-e460a8eea4bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ownership Type'])[1]/following::div[6]</value>
-      <webElementGuid>313683ae-f183-4de3-a425-fda308c10789</webElementGuid>
+      <webElementGuid>b549a46d-7ed5-4d95-936c-441c2f686f91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rented'])[1]/following::div[8]</value>
-      <webElementGuid>1576476c-679d-4726-b0af-2a6a2a17b8ef</webElementGuid>
+      <webElementGuid>6766aec6-1592-4cdc-a539-f74c5d736d24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='District'])[1]/preceding::div[14]</value>
-      <webElementGuid>14ddba03-e628-41c4-8371-fb7bc148f245</webElementGuid>
+      <webElementGuid>d905e3f9-534c-4bea-b8d8-803c873d3f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[4]/div/div</value>
-      <webElementGuid>4a078a89-8012-490d-8201-4313538ed088</webElementGuid>
+      <webElementGuid>05378173-3e97-41bf-8ce5-91f6598259d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Town' or . = 'Town')]</value>
-      <webElementGuid>6f834ebe-bd7f-4b8c-8d65-0ee5a1668cb4</webElementGuid>
+      <webElementGuid>30572f89-671d-45af-9fb8-5f90617fa0e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

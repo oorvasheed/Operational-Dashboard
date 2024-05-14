@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RodriguesDistrict</name>
+   <tag></tag>
+   <elementGuidId>8d734a39-5658-4654-bddd-e6c9c8ea8ce6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Town'])[1]/following::div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c32-32</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>47929268-5b9b-4a4c-a812-25a70f6fb0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c32-32</value>
+      <webElementGuid>92d973f7-00cd-4c64-b3d1-e22385b4ecd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RodriguesDistrict</value>
+      <webElementGuid>f0cf8a21-b8ea-417b-b1bb-52a61a8adc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-default ng-tns-0-6&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/empty-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/app-view-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full bg-card overflow-hidden h-screen ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto&quot;]/div[@class=&quot;flex flex-auto&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/div[@class=&quot;w-10/12 flex&quot;]/div[@class=&quot;w-full flex h-full&quot;]/div[@class=&quot;w-full overflow-auto relative h-full&quot;]/div[@class=&quot;w-full flex ng-star-inserted&quot;]/div[@class=&quot;p-4 mb-12 w-full overflow-auto main-content-height ng-star-inserted&quot;]/app-address-v2[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;w-full pt-4 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/app-dynamic-form-component[@class=&quot;w-full&quot;]/form[@class=&quot;flex flex-wrap ng-star-inserted ng-untouched ng-pristine ng-valid&quot;]/fieldset[@class=&quot;flex flex-wrap w-full form-container&quot;]/mat-form-field[@class=&quot;mat-form-field form-fields ng-tns-c32-32 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-disabled ng-untouched ng-pristine ng-star-inserted mat-form-field-should-float ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c32-32&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c32-32&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c32-32&quot;]</value>
+      <webElementGuid>161bca30-de10-493b-bc23-98b21eece6ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Town'])[1]/following::div[7]</value>
+      <webElementGuid>3d705b52-dfbd-4dc5-a811-9ebe9f290abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ownership Type'])[1]/following::div[16]</value>
+      <webElementGuid>04a1e92d-f01c-464f-9913-2a55a9f3cf65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[5]/div/div/div</value>
+      <webElementGuid>e97804e5-ac5c-4b8c-a772-986b9ea25fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RodriguesDistrict' or . = 'RodriguesDistrict')]</value>
+      <webElementGuid>85fa5a71-76d9-4c2c-9f60-a2e62961a128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

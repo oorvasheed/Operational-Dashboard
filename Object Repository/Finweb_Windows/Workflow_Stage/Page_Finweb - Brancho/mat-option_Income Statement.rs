@@ -6,12 +6,12 @@
    <elementGuidId>b35caa52-b731-454d-92c3-ad46b1b34c8e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-28']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mat-option-28</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Statement'])[1]/following::mat-option[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-option</value>
-      <webElementGuid>f2a7c29e-0683-4839-8699-20c93f1e0e36</webElementGuid>
+      <webElementGuid>114d74c2-a584-4381-86aa-2f423caa49ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>8911aa1f-3674-44bc-881b-4b98aa2cb80d</webElementGuid>
+      <webElementGuid>039cfd55-5a6a-4b2d-89bd-598536156f39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option mat-focus-indicator ng-tns-c88-53 ng-star-inserted</value>
-      <webElementGuid>b96c687c-6d12-45f1-b05c-b4b4cbe7081d</webElementGuid>
+      <webElementGuid>90af26e2-1898-4aff-a2e7-6cf5edae0b78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-option-28</value>
-      <webElementGuid>61f8252c-2f24-417b-8ea2-287d7116830b</webElementGuid>
+      <webElementGuid>a28e6804-09b6-4bf1-972a-f83702320b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ed0dae6e-0753-43c2-9eb2-f9fb7410f054</webElementGuid>
+      <webElementGuid>6787ff4c-170b-4600-830b-72c3c5fd4720</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>be56d7bf-ebff-452e-b918-ff52bd9e91e4</webElementGuid>
+      <webElementGuid>a98fdac4-5a41-4ffa-8938-8d0776d78c8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Income Statement</value>
-      <webElementGuid>db71397c-045b-46ad-9f84-a4f93abc60b9</webElementGuid>
+      <webElementGuid>13c183c9-e3bb-4fe5-961d-f74fd467bf60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-28&quot;)</value>
-      <webElementGuid>e1570870-8831-40b3-96f1-6c051f71709d</webElementGuid>
+      <webElementGuid>d7939ad9-3df2-49bf-8d13-13ebf6e6c157</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-28']</value>
-      <webElementGuid>213a6b3e-295d-4820-881f-83a505b53c30</webElementGuid>
+      <webElementGuid>33fbb8c9-5644-49c0-aa7d-aaa6b52993f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-12-panel']/mat-option[2]</value>
-      <webElementGuid>7721bced-00b4-40f9-a98a-a0707da98653</webElementGuid>
+      <webElementGuid>6dd0ba91-cb9f-44a0-8ab1-261b2372f11b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Statement'])[1]/following::mat-option[1]</value>
-      <webElementGuid>c9c3dda4-e834-42e5-84f5-49988362bdb9</webElementGuid>
+      <webElementGuid>0dc4b271-1901-4c88-a374-e1cf9326a491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2024'])[1]/following::mat-option[2]</value>
-      <webElementGuid>3c7af7d9-5ce6-42c6-93c2-59f64c5c3f7e</webElementGuid>
+      <webElementGuid>f589ab12-1714-46d9-8d29-1a357b37e2d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::mat-option[1]</value>
-      <webElementGuid>82b41937-6c88-42b1-bb8d-edc1e13b005b</webElementGuid>
+      <webElementGuid>1fb54dda-dbaf-4cf9-b0ec-6f7bd2f534e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]</value>
-      <webElementGuid>7273786f-175e-4229-921e-ecf0388895f7</webElementGuid>
+      <webElementGuid>cc559ae4-c832-4049-a9d2-20f3fafbcd6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-option[@id = 'mat-option-28' and (text() = 'Income Statement' or . = 'Income Statement')]</value>
-      <webElementGuid>eaed464c-c43e-4670-a9be-00dad10d9bdb</webElementGuid>
+      <webElementGuid>c509c597-48d1-44e4-9702-61dca41408bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

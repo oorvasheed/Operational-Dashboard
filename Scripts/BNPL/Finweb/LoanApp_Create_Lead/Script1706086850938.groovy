@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Branc
 WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/div_Register for BNPL'))
 
 WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Get Details From_firstName'), 
-    'VQaTest')
+    'QATeVster')
 
 WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Middle Name_mat-input-5'), 'tester')
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Branc
 
 WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/span_Male'))
 
-WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Gender_mat-input-6'), '51980254')
+WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Gender_mat-input-6'), '51980259')
 
 WebUI.scrollToElement(findTestObject('Finweb_Windows/Page_Finweb - Brancho/span_DOB'), 0)
 
