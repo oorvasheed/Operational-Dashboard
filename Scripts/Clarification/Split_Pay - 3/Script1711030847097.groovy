@@ -552,7 +552,7 @@ private void executeSalaried(AppiumDriver driver, String occType, String busines
 			
 			//Confirm Application
 			
-			Mobile.waitForElementPresent(findTestObject("Split_Pay/android.widget.Button - Confirm_Confirm_Application"), 10)
+			Mobile.waitForElementPresent(findTestObject("Split_Pay/android.widget.Button - Confirm_Confirm_Application"), 30)
 			Mobile.scrollToText("Expenses")
 			Mobile.tap(findTestObject("Split_Pay/android.widget.Button - Confirm_Confirm_Application"), 5)
 			
