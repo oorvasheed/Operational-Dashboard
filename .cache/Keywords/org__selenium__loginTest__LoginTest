@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BDA3D7319D73E2CFA8F6685DF6BCF582",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.loginTest.LoginTest",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

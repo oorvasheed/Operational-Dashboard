@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B5A58B937B4A5E1792E0262CF527C4EB",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.loginPage.DashboardPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

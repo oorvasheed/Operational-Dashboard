@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close</name>
+   <tag></tag>
+   <elementGuidId>edb65ce5-141f-460f-8434-fceda83d697a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Mobile Number'])[1]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5102151a-923c-4157-bb1e-856f4e4dbf8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>5cd4a0c9-5d3c-46d9-80af-a9db992ebfe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>83f781b9-34f7-4119-a356-f516d7d91065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden ng-tns-0-3 light theme-default&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full min-w-0&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/customers-view[@class=&quot;ng-tns-c626-148 ng-star-inserted&quot;]/fuse-drawer[@class=&quot;ng-tns-c626-148 min-w-128 w-128 fuse-drawer-fixed fuse-drawer-mode-over fuse-drawer-position-right ng-star-inserted fuse-drawer-animations-enabled fuse-drawer-opened fuse-drawer-hover&quot;]/div[@class=&quot;fuse-drawer-content&quot;]/mobile-verification[@class=&quot;ng-tns-c626-148 ng-star-inserted&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/div[@class=&quot;w-full relative h-screen ng-star-inserted&quot;]/div[@class=&quot;absolute bottom-0 w-full border-t border-gray-200 flex justify-end p-4&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>f1ee4f6a-d24f-4bf0-92b7-15ebf46a6bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Mobile Number'])[1]/following::span[4]</value>
+      <webElementGuid>daf7c94d-624e-4b2a-9daf-930ce75ccc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version History'])[1]/preceding::span[3]</value>
+      <webElementGuid>549c1359-bbd3-400e-8ac3-821ad67146c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[6]</value>
+      <webElementGuid>f8822814-3d46-44f7-8b34-9db0f803b4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>420a8312-e753-4f20-8d6f-98fd783abf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>f7177333-38ee-4881-97dc-d07a6b59853d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>725f97a4-32dd-4d2a-8040-81bf90222d36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

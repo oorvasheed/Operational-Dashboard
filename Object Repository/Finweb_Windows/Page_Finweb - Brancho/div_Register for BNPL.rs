@@ -6,12 +6,12 @@
    <elementGuidId>0717e0eb-9493-4e15-926d-9232ab247d39</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.mat-focus-indicator.w-full.mat-menu-item.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'Register for')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mat-menu-panel-4']/div/button/div</value>
+         <key>CSS</key>
+         <value>div.mat-focus-indicator.w-full.mat-menu-item.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8b580986-8f93-40a6-bb6b-b05c04a432ba</webElementGuid>
+      <webElementGuid>2655abc0-9161-4106-bc12-3aa43963d89e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator w-full mat-menu-item ng-star-inserted cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>35e2e727-0a1c-4e09-86a2-8c8c2de45d1f</webElementGuid>
+      <webElementGuid>bb85d399-4308-42b3-b007-1030a53164d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>ac0647da-c37c-4cdf-89aa-22d03db226a0</webElementGuid>
+      <webElementGuid>30d113cb-77ab-4c66-9cf7-1a9f01683d17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ae990803-60d2-4fe6-ab23-62bf9e51c77e</webElementGuid>
+      <webElementGuid>1f769c38-deb2-445f-ab3e-edf681cf34bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ea897fcf-7714-4561-8fb7-5f82f304c670</webElementGuid>
+      <webElementGuid>e362acdc-142c-4c22-956b-36f180eca107</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Register for BNPL </value>
-      <webElementGuid>b1f59a50-4dfb-4ccd-bf4a-f36f85c9f723</webElementGuid>
+      <webElementGuid>2e1b0cbc-cb60-4073-99e3-3782444c1907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-menu-panel-4&quot;)/div[@class=&quot;mat-menu-content ng-tns-c117-9&quot;]/button[@class=&quot;flex flex-col w-full ng-tns-c117-9 ng-star-inserted&quot;]/div[@class=&quot;mat-focus-indicator w-full mat-menu-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>b3993f74-bc6b-41ee-b8fa-87ca0dd0d9c0</webElementGuid>
+      <webElementGuid>a2669b88-62d6-40a2-abe1-e7fb539043c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-menu-panel-4']/div/button/div</value>
-      <webElementGuid>7d420981-d2b9-4c5e-8fea-d62a927f0339</webElementGuid>
+      <webElementGuid>35fdf62d-7a7a-4b80-bf10-9996d99a78ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 2024'])[1]/following::div[9]</value>
-      <webElementGuid>7cd27ca9-460f-4d14-a3d9-68466758eb0e</webElementGuid>
+      <webElementGuid>e7ee8d87-25b3-431f-a0e3-78ab9919f060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Version:'])[1]/following::div[11]</value>
-      <webElementGuid>9acd8825-b39c-46ae-a869-babc089bcab3</webElementGuid>
+      <webElementGuid>b560fb64-8675-44fc-a981-5331a5848265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>9cf80e9c-9bda-40b0-99ec-75e26ba11bfa</webElementGuid>
+      <webElementGuid>69799825-73d9-47dd-86e3-134e8563a490</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Register for BNPL ' or . = ' Register for BNPL ')]</value>
-      <webElementGuid>f0ca324b-f9ed-4336-854a-b8c8867780f4</webElementGuid>
+      <webElementGuid>4beb1c9d-8922-4204-aa81-21c612e77d28</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

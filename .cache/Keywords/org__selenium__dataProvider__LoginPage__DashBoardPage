@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C9446082623FD0F8DD427D8E4C5903EE",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.dataProvider.LoginPage.DashBoardPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

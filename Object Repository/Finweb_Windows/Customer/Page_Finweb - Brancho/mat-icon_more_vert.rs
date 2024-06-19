@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_more_vert</name>
+   <tag></tag>
+   <elementGuidId>0205bcf8-df6f-4794-ad38-e892303451d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number'])[1]/following::mat-icon[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.ng-tns-c626-148.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>15edf771-619e-4221-b063-f9b9e8a9e533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2d929e8a-577a-4c66-9dd2-ce083135f169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>22d2f474-369d-4c96-b812-7779bbfc1c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ee4da9f5-50f3-4bf5-a90a-18d1d0cdcc75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>f5be23fd-4c91-4216-977f-145d83ed9b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_vert</value>
+      <webElementGuid>2ba892dc-68b9-4bdb-82be-ca866c3b8a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden ng-tns-0-3 light theme-default&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full min-w-0&quot;]/div[@class=&quot;flex flex-col flex-auto w-full&quot;]/customers-view[@class=&quot;ng-tns-c626-148 ng-star-inserted&quot;]/div[@class=&quot;w-full py-8 px-6 md:px-10 ng-tns-c626-148 ng-star-inserted&quot;]/div[@class=&quot;flex flex-col flex-auto w-full max-w-360 mx-auto ng-tns-c626-148&quot;]/div[@class=&quot;flex flex-auto mt-8 ng-tns-c626-148&quot;]/div[@class=&quot;grid grid-cols-12 gap-4 w-full relative ng-tns-c626-148 ng-star-inserted&quot;]/div[@class=&quot;relative col-span-3 grid grid-cols-1 gap-4 items-start place-content-start ng-tns-c626-148&quot;]/div[@class=&quot;w-full border border-gray-200 rounded-md p-4 bg-white shadow-sm ng-tns-c626-148&quot;]/div[@class=&quot;w-full flex justify-between items-center p-3 rounded-md hover:bg-gray-50 ng-tns-c626-148&quot;]/div[@class=&quot;w-2/12 flex items-center justify-end ng-tns-c626-148&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger ng-tns-c626-148 mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>bd6d3345-9a27-485e-8b6d-5d74a7bd9fa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Number'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>fc26dd43-a94d-47cb-a562-4cf36f50b07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Of Birth'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>35cf1cd6-979d-4bc3-8aea-8f91624d0fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alternate Mobile Number'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>b3d7979f-dcde-4b06-b732-27c63c1a344b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>ed613c2d-698b-4039-8b2d-0474f9af07c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
+      <webElementGuid>187653b7-0dbd-4015-ba95-16e8ea9c6052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/mat-icon</value>
+      <webElementGuid>1b2cc654-ffb2-4d29-86bd-c0fa4f873bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>4ad1578a-d29c-48d0-a26f-3307504b089c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

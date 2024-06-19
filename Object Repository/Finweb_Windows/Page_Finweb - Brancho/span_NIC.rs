@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'NIC' or . = 'NIC')]</value>
+         <value>//div[@role='listbox']/mat-option/span[text()='NIC']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4196c18c-9f30-4db0-a89a-efeff1baa307</webElementGuid>
+      <webElementGuid>d4df4d43-9f5b-4aae-821a-a9f9eda79554</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>5b7210e6-6aef-4c23-bacd-b430f5602991</webElementGuid>
+      <webElementGuid>30ec5886-707d-42d8-b2d1-848a3004fec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>NIC</value>
-      <webElementGuid>2d572a04-c9df-4d62-9f6c-2239ac154be2</webElementGuid>
+      <webElementGuid>7857fc5e-768f-4c50-807c-6dce7b23ab93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-4&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>2cc3e181-ba18-41bd-94e7-14986892ac15</webElementGuid>
+      <webElementGuid>1205763f-b182-4421-a546-76a6a1cac3ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-4']/span</value>
-      <webElementGuid>93b250da-0ecc-4d1c-bb47-13cf6f6d376c</webElementGuid>
+      <webElementGuid>c18b276a-d109-4785-b0c4-17daeff56ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-4', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
-      <webElementGuid>9d51eeb8-01ea-419f-8aca-cc73b3023da5</webElementGuid>
+      <webElementGuid>c4ac3408-02f9-4759-850c-0c3eafa0271c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JAN 1954'])[1]/following::span[1]</value>
-      <webElementGuid>b613569a-d9a5-4b93-9c14-2eac21a8ef3f</webElementGuid>
+      <webElementGuid>cf4bc1c4-bede-4f44-862e-1a23d9c1fdda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NIC']/parent::*</value>
-      <webElementGuid>122e391e-4668-4419-98f3-7c3d656a54da</webElementGuid>
+      <webElementGuid>50f2065a-5444-4731-b7d0-f60c4006e377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option/span</value>
-      <webElementGuid>fa948306-7cfc-4a5b-859e-b574f0458ac1</webElementGuid>
+      <webElementGuid>9f030cb6-ebcf-4a1b-83d7-4d89c7502b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'NIC' or . = 'NIC')]</value>
-      <webElementGuid>748f08aa-9c7a-4cfe-a56b-7c3e5f14863b</webElementGuid>
+      <webElementGuid>a9708ce7-b3b9-401a-95f8-ff8cd7eece36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

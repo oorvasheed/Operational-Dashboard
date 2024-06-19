@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Operations DashboardLogin to your accou_0456d4</name>
+   <tag></tag>
+   <elementGuidId>02c4d35b-fd81-4aea-a952-5372bc0ecc6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rootReact']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-right-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c011784-201d-4cc2-bf7f-a193fd991f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-right-container</value>
+      <webElementGuid>6d1cc926-e2a2-4a0e-a4b1-46a1bc98b7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operations DashboardLogin to your accountEmail Address Please Enter Email IDPasswordForgot Password ?LoginLogin with AD</value>
+      <webElementGuid>8123c6b2-d185-4e83-af07-43fcd35301d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootReact&quot;)/div[@class=&quot;login-main-card&quot;]/div[@class=&quot;login-right-container&quot;]</value>
+      <webElementGuid>14344950-d037-45a3-a6ff-082243fb0a41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootReact']/div/div[2]</value>
+      <webElementGuid>2eec4e04-5c99-4d51-8da9-563719269402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/following::div[1]</value>
+      <webElementGuid>df65b04c-c13d-47bd-a43e-e9a9924a60ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::div[1]</value>
+      <webElementGuid>4d38f6ec-4d8d-41d7-8225-33f3ddb2dc8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>bc38058f-5ea5-4672-bebf-a716af785e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Operations DashboardLogin to your accountEmail Address Please Enter Email IDPasswordForgot Password ?LoginLogin with AD' or . = 'Operations DashboardLogin to your accountEmail Address Please Enter Email IDPasswordForgot Password ?LoginLogin with AD')]</value>
+      <webElementGuid>cc092000-dc62-499c-98f4-2d6be7ab65f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

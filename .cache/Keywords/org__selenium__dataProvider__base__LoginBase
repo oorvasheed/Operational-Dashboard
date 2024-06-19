@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "93577C1B5BC215C2E37E8F4C79B14E57",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.dataProvider.base.LoginBase",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

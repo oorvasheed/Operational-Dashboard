@@ -175,10 +175,6 @@ for (int row = 1; row <= excelData.getRowNumbers(); row++) {
             }
         }
         
-        if (!(indFound)) {
-            System.out.println(('Error: Industry \'' + indType) + '\' not found in Industry Type dropdown')
-        }
-        
         WebUI.delay(2)
 
         WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Sector_Arrow_Select'))

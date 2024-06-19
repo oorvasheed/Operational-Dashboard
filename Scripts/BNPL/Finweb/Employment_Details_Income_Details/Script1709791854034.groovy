@@ -76,234 +76,398 @@ WebUI.delay(4, FailureHandling.OPTIONAL)
 
 WebDriver driver = DriverFactory.getWebDriver()
 
-String excelFilePath = 'C:/Users/I1675/Downloads/New folder (4)/Income_BNPL.xlsx'
+String excelFilePath = 'C:/Users/I1675/Downloads/Income_BNPL01.xlsx'
 
 boolean defaultOptionClicked = false;
 
 try {
-	
-    FileInputStream fis = new FileInputStream(excelFilePath)
 
-    Workbook workbook = new XSSFWorkbook(fis)
+	FileInputStream fis = new FileInputStream(excelFilePath)
 
-    for (int sheetIndex = 0; sheetIndex < workbook.getNumberOfSheets(); sheetIndex++) {
-        Sheet sheet = workbook.getSheetAt(sheetIndex)
+	Workbook workbook = new XSSFWorkbook(fis)
 
-        for (int rowIndex = 1; rowIndex <= sheet.getLastRowNum(); rowIndex++) {
-            Row row = sheet.getRow(rowIndex)
+	for (int sheetIndex = 0; sheetIndex < workbook.getNumberOfSheets(); sheetIndex++) {
+		Sheet sheet = workbook.getSheetAt(sheetIndex)
 
-            if (row == null) {
-                continue
-            }
-            
-            String occType = row.getCell(0).getStringCellValue()
+		for (int rowIndex = 1; rowIndex <= sheet.getLastRowNum(); rowIndex++) {
+			Row row = sheet.getRow(rowIndex)
 
-            Cell basicIncomeCell = row.getCell(1)
+			if (row == null) {
+				continue
+			}
 
-            Cell fixedAllowanceCell = row.getCell(2)
+			String occType = row.getCell(0).getStringCellValue()
+			String businessType = row.getCell(40).getStringCellValue()
+			String empType = row.getCell(41).getStringCellValue()
+			String indType = row.getCell(42).getStringCellValue()
+			String secType = row.getCell(43).getStringCellValue()
+			String jobType = row.getCell(44).getStringCellValue()
+			String jobTitles = row.getCell(45).getStringCellValue()
 
-            Cell variableAllowanceCell = row.getCell(5)
+			Cell basicIncomeCell = row.getCell(1)
 
-            Cell industryAllowanceCell = row.getCell(11)
+			Cell fixedAllowanceCell = row.getCell(2)
 
-            Cell salaryAllowanceCell = row.getCell(17)
+			Cell variableAllowanceCell = row.getCell(5)
 
-            Cell businessExpensesCell = row.getCell(14)
+			Cell industryAllowanceCell = row.getCell(11)
 
-            Cell otherIncomeCell = row.getCell(24)
-			
+			Cell salaryAllowanceCell = row.getCell(17)
+
+			Cell businessExpensesCell = row.getCell(14)
+
+			Cell otherIncomeCell = row.getCell(24)
+
 			Cell dividendCell = row.getCell(20)
-			
+
 			Cell rentalCell = row.getCell(19)
-			
-			Cell otherCell = row.getCell(21)	
 
-            System.out.println((((((((('Row ' + (rowIndex + 1)) + ': occType=') + occType) + ', basicIncomeCell=') + basicIncomeCell) + 
-                ', fixedAllowanceCell=') + fixedAllowanceCell) + ', variableAllowanceCell=') + variableAllowanceCell)
+			Cell otherCell = row.getCell(21)
 
-            if ((((((basicIncomeCell == null) || (fixedAllowanceCell == null)) || (variableAllowanceCell == null)) || (industryAllowanceCell == 
-            null)) || (businessExpensesCell == null)) || (otherIncomeCell == null) || (dividendCell == null) || (rentalCell == null) || (otherCell == null)) {
-                System.out.println('Error: Null cell found in row ' + (rowIndex + 1))
+			System.out.println((((((((('Row ' + (rowIndex + 1)) + ': occType=') + occType) + ', basicIncomeCell=') + basicIncomeCell) +
+					', fixedAllowanceCell=') + fixedAllowanceCell) + ', variableAllowanceCell=') + variableAllowanceCell)
 
-                continue
-            }
-            
-            double basicIncome = basicIncomeCell.getNumericCellValue()
+			if ((((((basicIncomeCell == null) || (fixedAllowanceCell == null)) || (variableAllowanceCell == null)) || (industryAllowanceCell ==
+					null)) || (businessExpensesCell == null)) || (otherIncomeCell == null) || (dividendCell == null) || (rentalCell == null) || (otherCell == null)) {
+				System.out.println('Error: Null cell found in row ' + (rowIndex + 1))
 
-            double fixedAlowance = fixedAllowanceCell.getNumericCellValue()
+				continue
+			}
 
-            double variableAlowance = variableAllowanceCell.getNumericCellValue()
+			double basicIncome = basicIncomeCell.getNumericCellValue()
 
-            double industryAverage = industryAllowanceCell.getNumericCellValue()
+			double fixedAlowance = fixedAllowanceCell.getNumericCellValue()
 
-            double salaryAlowance = salaryAllowanceCell.getNumericCellValue()
+			double variableAlowance = variableAllowanceCell.getNumericCellValue()
 
-            double businessExpenses = businessExpensesCell.getNumericCellValue()
+			double industryAverage = industryAllowanceCell.getNumericCellValue()
 
-            double otherIncome = otherIncomeCell.getNumericCellValue()
-			
+			double salaryAlowance = salaryAllowanceCell.getNumericCellValue()
+
+			double businessExpenses = businessExpensesCell.getNumericCellValue()
+
+			double otherIncome = otherIncomeCell.getNumericCellValue()
+
 			double dividendIncome = dividendCell.getNumericCellValue()
-			
+
 			double rentalIncome = dividendCell.getNumericCellValue()
-			
+
 			double other = otherCell.getNumericCellValue()
 
-            try {
-				
-                WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'), 
-                    FailureHandling.OPTIONAL)
+			try {
 
-                WebUI.delay(2)
+				WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'),
+						FailureHandling.OPTIONAL)
 
-                List<WebElement> options = driver.findElements(By.xpath('/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option/span'))
+				WebUI.delay(2)
 
-                boolean optionFound = false
+				List<WebElement> options = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+				System.out.println("Number of options found: " +options.size());
+				boolean optionFound = false
 
-                for (WebElement option : options) {
-                    if (option.getText().contains(occType)) {
-                        option.click()
-                        optionFound = true
-                        System.out.println(('Success: Occupation \'' + occType) + '\' is selected')
-                        break;
-                    }
-                }
-                
-                if (!optionFound) {
-					
-					WebUI.refresh(FailureHandling.OPTIONAL)			
-						
+				for (WebElement option : options) {
+					String optionText = option.getText().trim()
+					System.out.println("Option text: " + optionText)
+					if (optionText.contains(occType)) {
+						option.click()
+						optionFound = true
+						System.out.println(('Success: Occupation \'' + occType) + '\' is selected')
+						break;
+					}
+				}
+
+				if (!optionFound) {
+
+					WebUI.refresh(FailureHandling.OPTIONAL)
+
 					//driver.findElement(By.xpath("//span[text()='Employed Contractual']")).click()
-					
+
 					//driver.findElement(By.xpath("//mat-option/span[text()='Employed Full Time']")).click()
-					
-					
+
+
 					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Radio_button_No'),
-						5, FailureHandling.OPTIONAL)
-					
+							5, FailureHandling.OPTIONAL)
+
 					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Radio_button_No'))
-					
+
 					WebUI.delay(3)
-					
+
 					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'))
-					
+
 					WebUI.delay(1)
-					
-					List<WebElement> options2 = driver.findElements(By.xpath('/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option/span'))
 
-                    for (WebElement currentOption : options2) {
-                        if (currentOption.getText().contains(occType)) {
-                            currentOption.click()
-                            System.out.println(('Success: Occupation \'' + occType) + '\' is selected')
-							
-                        }
-                    }
-					
-                }
-                
-                if ((occType.equals('Employed Contractual') || occType.equals('Employed Full Time')) || occType.equals('Employed Part Time')) {
-					
-                    WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_Employm_Detail'))
+					List<WebElement> options2 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Basic_Salary'), 
-                        String.valueOf(basicIncome))
+					for (WebElement currentOption : options2) {
+						if (currentOption.getText().contains(occType)) {
+							currentOption.click()
+							System.out.println(('Success: Occupation \'' + occType) + '\' is selected')
 
-                    System.out.println(('Success: Basic Income \'' + basicIncome) + '\'')
+						}
+					}
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Fixed_alowance'), 
-                        String.valueOf(fixedAlowance))
+				}
 
-                    System.out.println(('Success: Fixed Alowance \'' + fixedAlowance) + '\'')
+				if ((occType.equals('Employed Contractual') || occType.equals('Employed Full Time')) || occType.equals('Employed Part Time')) {
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Variable_Alowance'), 
-                        String.valueOf(variableAlowance))
+					WebUI.delay(5)
 
-                    System.out.println(('Success: Variable Alowance \'' + variableAlowance) + '\'')
+					WebUI.delay(2)
 
-                    WebUI.delay(3)
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Business_Type_Select'))
 
-                    WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Back_Button_next to save'))
+					List<WebElement> options0 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
 
-                    WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'), 
-                        5, FailureHandling.OPTIONAL)
-				
-                }
-                
-                if (occType.equals('Self employed No Permit') || occType.equals('Self employed With Permit')) {
-                    
+					boolean bustypeFound = false
+
+					for(WebElement option0 : options0) {
+						if(option0.getText().contains(businessType)) {
+							option0.click()
+							bustypeFound = true
+							System.out.println(('Success: Business Type \'' + businessType) + '\' is selected')
+							break
+						}
+					}
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Employer_Select'), FailureHandling.OPTIONAL)
+
+					List<WebElement> options1 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+
+					boolean empFound = false
+
+					for (WebElement option1 : options1) {
+						if (option1.getText().contains(empType)) {
+							((JavascriptExecutor) driver).executeScript('arguments[0].scrollIntoView(true);', option1)
+
+							option1.click()
+
+							empFound = true
+
+							System.out.println(('Success: Employer \'' + empType) + '\' is selected')
+
+							break
+						}
+					}
+
+					if (!(empFound)) {
+
+						System.out.println(('Error: emp \'' + empType) + '\' not found in Employer Type dropdown')
+					}
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Industry_select'), FailureHandling.OPTIONAL)
+
+					WebUI.delay(2)
+
+					List<WebElement> options2 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+
+					boolean indFound = false
+
+					for (WebElement option2 : options2) {
+						if (option2.getText().contains(indType)) {
+							((JavascriptExecutor) driver).executeScript('arguments[0].scrollIntoView(true);', option2)
+
+							option2.click()
+
+							indFound = true
+
+							System.out.println(('Success: Industry \'' + indType) + '\' is selected')
+
+							break
+						}
+					}
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Sector_Arrow_Select'))
+
+					WebUI.delay(2)
+
+					List<WebElement> options3 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+
+					boolean sectorFound = false
+
+					for (WebElement option3 : options3) {
+						if (option3.getText().contains(secType)) {
+							((JavascriptExecutor) driver).executeScript('arguments[0].scrollIntoView(true);', option3)
+
+							option3.click()
+
+							sectorFound = true
+
+							System.out.println(('Success: Sector \'' + secType) + '\' is selected')
+
+							break
+						}
+					}
+
+					if (!(sectorFound)) {
+						System.out.println(('Error: Sector \'' + secType) + '\' not found in Sector Type dropdown')
+					}
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Job_Type_Select'))
+
+					List<WebElement> options4 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+
+					boolean jobFound = false
+
+					for (WebElement option4 : options4) {
+						if (option4.getText().contains(jobType)) {
+							((JavascriptExecutor) driver).executeScript('arguments[0].scrollIntoView(true);', option4)
+
+							option4.click()
+
+							jobFound = true
+
+							System.out.println(('Success: JobType \'' + jobType) + '\' is selected')
+
+							break
+						}
+					}
+
+					if (!(indFound)) {
+						System.out.println(('Error: JobType \'' + jobType) + '\' not found in Job Type dropdown')
+					}
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_Job_Titles_Select'))
+
+					List<WebElement> options5 = driver.findElements(By.xpath("//div[@role='listbox']/mat-option/span"))
+
+					boolean jobtitleFound = false
+
+					for (WebElement option5 : options5) {
+						if (option5.getText().contains(jobTitles)) {
+							((JavascriptExecutor) driver).executeScript('arguments[0].scrollIntoView(true);', option5)
+
+							option5.click()
+
+							jobtitleFound = true
+
+							System.out.println(('Success: JobTitle \'' + jobTitles) + '\' is selected')
+
+							break
+						}
+					}
+
+					if (!(jobtitleFound)) {
+						System.out.println(('Error: JobTitles \'' + jobTitles) + '\' not found in Job Title dropdown')
+					}
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/input_Year_of_business'),7)
+
+					WebUI.delay(5)
+
 					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_Employm_Detail'))
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Industry_Average'), 
-                        String.valueOf(industryAverage))
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Basic_Salary'),
+							String.valueOf(basicIncome))
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Salary_Income'), 
-                        String.valueOf(salaryAlowance))
+					System.out.println(('Success: Basic Income \'' + basicIncome) + '\'')
 
-                    WebUI.delay(1)
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Fixed_alowance'),
+							String.valueOf(fixedAlowance))
 
-                    WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_Self_Emp'))
+					System.out.println(('Success: Fixed Alowance \'' + fixedAlowance) + '\'')
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Business_Expenses'), 
-                        String.valueOf(businessExpenses))
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Variable_Alowance'),
+							String.valueOf(variableAlowance))
 
-                    WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Other_Income'), 
-                        String.valueOf(otherIncome))
+					System.out.println(('Success: Variable Alowance \'' + variableAlowance) + '\'')
 
-                    WebUI.scrollToElement(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Text_Rent_IfAny'), 
-                        5)
-					
-					WebUI.delay(2)
+					WebUI.delay(3)
 
-                    WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_button_next_toSave'))
-					
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Back_Button_next to save'))
+
+					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'),
+							5, FailureHandling.OPTIONAL)
+
+				}
+
+				if (occType.equals('Self employed No Permit') || occType.equals('Self employed With Permit')) {
+
+
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_Employm_Detail'))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Industry_Average'),
+							String.valueOf(industryAverage))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Salary_Income'),
+							String.valueOf(salaryAlowance))
+
 					WebUI.delay(1)
-					
-                    WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_Income_page'), 
-                        6, FailureHandling.OPTIONAL)
 
-                    WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_Income_page'))
-					
-					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'),
-						5, FailureHandling.OPTIONAL)
-					
-                }
-				
-				if(occType.equals("Pensioner") || occType.equals("Unemployed")) {
-					
-					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_button_Pensioner'))
-					
-					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Dividend'), 
-                        String.valueOf(dividendIncome))
-					
-					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Rental_Income'),
-						String.valueOf(rentalIncome))
-					
-					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Other'),
-						String.valueOf(other))
-					
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_Self_Emp'))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Business_Expenses'),
+							String.valueOf(businessExpenses))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Other_Income'),
+							String.valueOf(otherIncome))
+
+					WebUI.scrollToElement(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Text_Rent_IfAny'),
+							5)
+
 					WebUI.delay(2)
-					
-					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Pensioner_Back_Button'))		
-				
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_button_next_toSave'))
+
+					WebUI.delay(1)
+
+					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_Income_page'),
+							6, FailureHandling.OPTIONAL)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Back_Income_page'))
+
 					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'),
-						5, FailureHandling.OPTIONAL)
-					
-					
-					}
-            }
-            catch (StaleElementReferenceException e) {
-                System.out.println('StaleElementReferenceException occurred: ' + e.getMessage())
+							5, FailureHandling.OPTIONAL)
 
-                continue
-            } 
-            catch (NoSuchElementException e) {
-                System.out.println('NoSuchElementException occurred: ' + e.getMessage())
+				}
 
-                continue
-            } 
-        }
-    }
+				if(occType.equals("Pensioner") || occType.equals("Unemployed")) {
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Next_button_Pensioner'))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Dividend'),
+							String.valueOf(dividendIncome))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Rental_Income'),
+							String.valueOf(rentalIncome))
+
+					WebUI.setText(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/textbox_Other'),
+							String.valueOf(other))
+
+					WebUI.delay(2)
+
+					WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/Pensioner_Back_Button'))
+
+					WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/div_No_mat-select-arrow_Emp_Type'),
+							5, FailureHandling.OPTIONAL)
+
+
+				}
+			}
+			catch (StaleElementReferenceException e) {
+				System.out.println('StaleElementReferenceException occurred: ' + e.getMessage())
+
+				continue
+			}
+			catch (NoSuchElementException e) {
+				System.out.println('NoSuchElementException occurred: ' + e.getMessage())
+
+				continue
+			}
+		}
+	}
 }
 catch (IOException e) {
-    e.printStackTrace()
-} 
+	e.printStackTrace()
+}
 

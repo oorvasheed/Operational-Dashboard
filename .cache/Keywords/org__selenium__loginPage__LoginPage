@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "012F151700AC73BD69C038AB0227A012",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.loginPage.LoginPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

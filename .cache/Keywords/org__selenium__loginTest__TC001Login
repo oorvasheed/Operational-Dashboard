@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AFC199F6DEBF41414272997F298C1D59",
+  "keywordClasses": [
+    {
+      "name": "org.selenium.loginTest.TC001Login",
+      "keywordMethods": [
+        {
+          "name": "loginTest",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

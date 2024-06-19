@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mat-input-9']</value>
+         <value>//mat-label[text()='DOB ']/ancestor::span/preceding-sibling::input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3f23217d-15c7-49fc-a0a4-3cf03e5b0be9</webElementGuid>
+      <webElementGuid>5ddc2c94-c41c-499d-89eb-630d33c29731</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>if(this.value.length==20)return false;</value>
-      <webElementGuid>7121c32c-f87a-4135-8d86-989714c82fad</webElementGuid>
+      <webElementGuid>2e489835-3ef9-4281-9883-39fb8631ffad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control mat-datepicker-input ng-tns-c32-25 ng-pristine ng-invalid cdk-text-field-autofill-monitored ng-touched</value>
-      <webElementGuid>8ac54374-dec0-409d-b3d8-8b9b583f8e01</webElementGuid>
+      <webElementGuid>2187569f-1c96-4c15-9bdd-706c2462c01d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-input-9</value>
-      <webElementGuid>1aa6f637-15fc-4716-8148-c86b487ccd58</webElementGuid>
+      <webElementGuid>1e7b8a22-5ffc-49db-bfff-4d16082b27d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0a23d241-7a80-42fc-9848-8ab712d4a894</webElementGuid>
+      <webElementGuid>541edccc-81ae-45d8-8028-7c670702c040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>f73cf123-742c-447d-97bf-ef3932a2e9a4</webElementGuid>
+      <webElementGuid>9464ff6a-036c-4d6b-a811-8abd220aef1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1955-03-26T15:39:51+05:30</value>
-      <webElementGuid>bd0c82fa-be20-4bab-930a-10dc4ba033a5</webElementGuid>
+      <webElementGuid>510091ab-8cc0-41c5-9925-36775b4d4633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>max</name>
       <type>Main</type>
       <value>2006-03-26T15:39:51+05:30</value>
-      <webElementGuid>200f6adc-52ab-4e67-9ece-78ea20251543</webElementGuid>
+      <webElementGuid>aadc4d28-53f2-4244-bf31-65cbf39fa740</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-mat-calendar</name>
       <type>Main</type>
       <value>mat-datepicker-2</value>
-      <webElementGuid>64aa2921-8efc-4aa4-ab48-09f031659192</webElementGuid>
+      <webElementGuid>3a6c199d-c8ed-494c-8ba0-4cc2660689ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>mat-error-4</value>
-      <webElementGuid>2caa8222-4350-482e-997f-e30ba929298c</webElementGuid>
+      <webElementGuid>a1fdd816-50ed-4fd6-b77f-4b4a21e1c965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-input-9&quot;)</value>
-      <webElementGuid>3a880ace-cf64-4297-90ea-149e8f168a7b</webElementGuid>
+      <webElementGuid>9a6aa988-de1e-43d9-87f1-71344b0aefcc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mat-input-9']</value>
-      <webElementGuid>f02336c6-68a6-44f9-ba6d-9d3160c88f51</webElementGuid>
+      <webElementGuid>e691c52c-4426-4d4c-93fd-d6831331d3b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[7]/div/div/div/input</value>
-      <webElementGuid>7ad62ff6-c075-41c8-966e-4305a6efdc98</webElementGuid>
+      <webElementGuid>ead59eab-c4f0-4c5e-9c8c-6904058acea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'mat-input-9']</value>
-      <webElementGuid>948e5d5f-de96-45fa-b482-672511ccb1b9</webElementGuid>
+      <webElementGuid>886e223c-e0dd-46af-9f38-e8a5f419fd43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

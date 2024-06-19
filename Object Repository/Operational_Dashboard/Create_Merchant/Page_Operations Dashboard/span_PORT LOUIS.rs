@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PORT LOUIS</name>
+   <tag></tag>
+   <elementGuidId>b8bc5807-0013-4f9f-bf89-90e8af113054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-24']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-24 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8555af25-ae62-45ee-8cb6-f92ca8747f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>8018ab47-e0b1-4fdc-988b-5e276c148280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PORT LOUIS </value>
+      <webElementGuid>2ecbd01b-75e9-4bcc-8a9d-5d52a031db11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-24&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>985f7a64-79fe-447b-ad61-3a545b902f39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-24']/span</value>
+      <webElementGuid>85d832ce-546d-4ddf-a6ea-0189b3e113e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAINES WILHEMS'])[1]/following::span[1]</value>
+      <webElementGuid>e7385f45-27b1-4bbd-aac7-c71ee19ad821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAMPLEMOUSSES'])[1]/following::span[2]</value>
+      <webElementGuid>4025971f-0195-490d-9ab6-b1b891a4556f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIV. DU REMPART'])[1]/preceding::span[1]</value>
+      <webElementGuid>359bd209-4b25-4109-b54d-c0d33c0f9048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RODRIGUES'])[1]/preceding::span[2]</value>
+      <webElementGuid>82d3af23-c775-48eb-84c5-cc78856e43e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PORT LOUIS']/parent::*</value>
+      <webElementGuid>198ecacf-eef1-4f8f-b9a0-362926041809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[7]/span</value>
+      <webElementGuid>4739917b-6471-4f8b-9ac2-9fd768f2a924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' PORT LOUIS ' or . = ' PORT LOUIS ')]</value>
+      <webElementGuid>72c680c3-c6ee-4829-845f-7af78d1d4c66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

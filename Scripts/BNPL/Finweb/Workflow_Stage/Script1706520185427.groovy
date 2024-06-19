@@ -17,39 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/span_Navigate To Loan Application'), 
+    10, FailureHandling.OPTIONAL)
 
-WebUI.navigateToUrl('https://cim-uat.finflux.io/sign-in?redirectURL=%2Fleads')
-
-WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Version uat-24.01.01-01 b8eec48_username'), 
-    'navishas')
-
-WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Username_password'), 'Admin@123')
-
-WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/button_Sign in'))
-
-WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/span_Reports_mat-button-wrapper'), 
-    5, FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/span_Reports_mat-button-wrapper'))
-
-WebUI.click(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/div_Loan Application'))
-
-WebUI.setText(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/input_BNPLCC_mat-input-19'), '000000000002808')
-
-WebUI.click(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/span_Search'))
-
-WebUI.click(findTestObject('Finweb_Windows/Search/Page_Finweb - Brancho/span_Navigate To Loan Application'))
-
-WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/span_Address Details'), 
-    5, FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/span_Address Details'))
-
-WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Skip Task'), 5, 
-    FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Skip Task'))
+WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Activity_Complete_KYC'))
 
 WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Add New Address'))
 
@@ -77,8 +48,7 @@ WebUI.click(findTestObject('Object Repository/Finweb_Windows/Workflow_Stage/Addr
 WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/span_Activity Complete_Address_Details'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementClickable(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Add New Document'), 
-    5, FailureHandling.OPTIONAL)
+WebUI.delay(5, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Finweb_Windows/Workflow_Stage/Page_Finweb - Brancho/button_Skip_button'), FailureHandling.STOP_ON_FAILURE)
 

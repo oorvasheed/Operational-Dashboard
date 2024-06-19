@@ -75,7 +75,7 @@ for(int row = 1; row <= excelData.getRowNumbers(); row++) {
 		
 		WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/span_Male'))
 		
-		WebUI.setText(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/input_Gender_mat-input-6'), '51980259')
+		WebUI.setText(findTestObject('null'), '51980259')
 		
 		WebUI.scrollToElement(findTestObject('Finweb_Windows/Page_Finweb - Brancho/span_DOB'), 0)
 		
@@ -91,7 +91,7 @@ for(int row = 1; row <= excelData.getRowNumbers(); row++) {
 		
 		WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/span_NIC'))
 		
-		WebUI.setText(findTestObject('Finweb_Windows/Page_Finweb - Brancho/input_Identifier Selection_mat-input-9'), 'R1106824600386')
+		WebUI.setText(findTestObject('Finweb_Windows/Page_Finweb - Brancho/input_Identifier_Selection'), 'R1106824600386')
 		
 		WebUI.click(findTestObject('Object Repository/Finweb_Windows/Page_Finweb - Brancho/span_Create Lead'))
 		

@@ -6,12 +6,11 @@
    <elementGuidId>23f95c49-19c1-4bd0-aad7-783859c7581c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//mat-label[text()='NIC Value']/ancestor::span/preceding-sibling::input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html[1]/body[1]/app-root[1]/layout[1]/modern-layout[1]/div[1]/div[2]/leads-list[1]/fuse-drawer[1]/div[1]/lead-create[1]/div[2]/div[1]/div[1]/form[1]/div[1]/mat-form-field[10]/div[1]/div[1]/div[1]/input[1]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
