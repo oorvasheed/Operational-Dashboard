@@ -21,71 +21,12 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://cim-operations-uat.m2pfintech.com/signin')
 
-WebUI.setText(findTestObject('Page_Operations Dashboard/input_Email Address_email'), 'pratik.jain@m2pfintech.com')
+WebUI.setText(findTestObject('Operational_Dashboard/Login/Page_Operations Dashboard/input_Email Address_email'), 'pratik.jain@m2pfintech.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Operational_Dashboard/Login/Page_Operations Dashboard/input_Password_password'), 
     'cvW8qx4B2o1WegCEDy41Xg==')
 
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/button_Login'))
+WebUI.click(findTestObject('Operational_Dashboard/Login/Page_Operations Dashboard/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/button_New Merchant'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div_Select'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div_Sole Trader'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/a_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div_Primary Contact_mat-select-trigger ng-t_e4ed5c'))
-
-WebUI.waitForElementVisible(findTestObject('Page_Operations Dashboard/span_Owner'), 15)
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_Owner'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div_Title'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_MR'))
-
-WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/input_Title_name'), 
-    'Primary')
-
-WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/input__email'), 'visakh.v2@indiumsoft.com')
-
-WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/input__phone_number'), 
-    '54109569')
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div__mat-select-arrow ng-tns-c90-10'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_230'))
-
-WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/input__address_line'), 
-    'fasfsdff')
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div__mat-select-value-7'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_PORT LOUIS'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div__mat-select-value-9'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_CASSIS'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div__mat-select-value-11'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_CASSIS 1'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div__mat-select-value-13'))
-
-WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/span_Mauritius'), 5)
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/span_Mauritius'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/button_Save'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/div_P'))
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/button_Logout'))
-
-WebUI.waitForElementVisible(findTestObject('Page_Operations Dashboard/button_Logout'), 15)
-
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Login/Page_Operations Dashboard/button_Logout'))
+WebUI.callTestCase(findTestCase('Operational_Dashboard/Create_SoleTrader_Merchant'), [:], FailureHandling.STOP_ON_FAILURE)
 

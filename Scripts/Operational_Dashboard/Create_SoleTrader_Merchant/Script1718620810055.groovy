@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_New Merchant'))
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Sole Trader'))
@@ -150,4 +148,96 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Save'))
 
 WebUI.click(findTestObject('Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Next Steps_Business_Contact_details'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Settlement Bank Details_mat-select-value-39'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_ABC BANKING CORPORATION'))
+
+WebUI.sendKeys(findTestObject('Page_Operations Dashboard/input__acc_no'), '2786544542')
+
+WebUI.sendKeys(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__reEnter_acc_no'), 
+    '2786544542')
+
+WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__acc_holder_name'), 
+    'sardhar')
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Branch_mat-select-value-15'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_MUR'))
+
+WebUI.click(findTestObject('Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Save_Settlement_Bank_Details'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Next Steps_Settlement_Bank_Details'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Add New Document'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Add New Identifier_mat-select-value-3'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Business Registration Card'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Documents Sole Trader'))
+
+WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/h2_Add New Identifier'), 5)
+
+WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents Sole Trader_ID Number'), 
+    'card')
+
+WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Drag And Drop Files Here'), 0)
+
+WebUI.uploadFile(findTestObject('Page_Operations Dashboard/button_Upload File'), 'C:\\Users\\I1675\\Downloads\\dummy.pdf')
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Save_Business_Document'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Next Steps_Business_Documents'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Add New Document_KYC'))
+
+WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Add New Identifier_mat-select-trigger n_1df9e8'), 5)
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Add New Identifier_mat-select-trigger n_1df9e8'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Identity Documents'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Documents - KYC - Sole Trader_mat-selec_8dbf92'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_National Identity Card'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Documents - KYC - Sole Trader-Sub Type__173058'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_National ID - Recto'))
+
+WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents - KYC - Sole Trader-Sub Typ_3d47b4'), 
+    'NIC')
+
+WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Documents'), 5)
+
+WebUI.uploadFile(findTestObject('Page_Operations Dashboard/button_Upload File'), 'C:\\Users\\I1675\\Downloads\\dummy.pdf')
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Save_KYC_Document'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Add New Document (1)'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/h2_Add New Identifier_Reviewer_Documents'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Add New Identifier_mat-select-value-11'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/mat-option_VAT Certificate'))
+
+WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents - Additional_ID Number'), 
+    'VAT')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Documents_Reviewer_Document'), 
+    0)
+
+WebUI.uploadFile(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Upload File_Reviewer_Document'), 
+    'C:\\Users\\I1675\\Downloads\\dummy.pdf')
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Save_Reviewer_Document'))
+
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Submit For Review'))
 
