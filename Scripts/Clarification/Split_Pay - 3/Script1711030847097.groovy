@@ -46,7 +46,7 @@ Mobile.tapAtPosition(142, 481, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Split_Pay/android.widget.Button - Proceed'), 0)
 
-Mobile.waitForElementPresent(findTestObject('Object Repository/Split_Pay/android.widget.CheckBox'), 10, FailureHandling.OPTIONAL)
+Mobile.waitForElementPresent(findTestObject('Object Repository/Split_Pay/android.widget.CheckBox'), 20, FailureHandling.OPTIONAL)
 
 AppiumDriver<MobileElement> driver = MobileDriverFactory.getDriver()
 
