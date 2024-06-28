@@ -23,7 +23,7 @@ Mobile.tap(findTestObject('Object Repository/Registration/android.widget.Button 
 
 Mobile.tap(findTestObject('Object Repository/Registration/android.widget.Button - Continue'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Registration/android.widget.EditText - NIC Number'), 'R0709944203629', 
+Mobile.setText(findTestObject('Object Repository/Registration/android.widget.EditText - NIC Number'), 'D031297330133F', 
     0)
 
 Mobile.tap(findTestObject('Registration/android.widget.TextView - Continue(2)'), 0)
@@ -53,9 +53,9 @@ Mobile.tapAtPosition(495, 957, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1271, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
-
 Mobile.tapAtPosition(79, 1113, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
 
@@ -65,9 +65,9 @@ Mobile.tapAtPosition(495, 957, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(288, 1271, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
-
 Mobile.tapAtPosition(79, 1113, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tapAtPosition(79, 801, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tapAtPosition(495, 1115, FailureHandling.STOP_ON_FAILURE)
 

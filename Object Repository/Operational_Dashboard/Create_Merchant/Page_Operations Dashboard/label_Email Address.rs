@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Email Address</name>
+   <tag></tag>
+   <elementGuidId>e61df37e-0875-463d-87f5-129d10c9c6cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.header-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rootReact']/div/div[2]/div/form/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f23c711c-465f-4f4c-a3cb-67b5d3dfa287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-label</value>
+      <webElementGuid>c578fb98-5b4d-4f86-89e3-7e7e6d86fb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Address</value>
+      <webElementGuid>68b6e7f4-2031-443e-b826-141b92561dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootReact&quot;)/div[@class=&quot;login-main-card&quot;]/div[@class=&quot;login-right-container&quot;]/div[@class=&quot;login-container login-right-main&quot;]/form[@class=&quot;ant-form ant-form-horizontal gx-signin-form gx-form-row0&quot;]/div[@class=&quot;input-container email-div-input&quot;]/label[@class=&quot;header-label&quot;]</value>
+      <webElementGuid>64a2c427-a4f0-492c-95ac-875dad96f59d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootReact']/div/div[2]/div/form/div/label</value>
+      <webElementGuid>056c9c0f-4a5d-44a6-8433-a78627206822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to your account'])[1]/following::label[1]</value>
+      <webElementGuid>e0515b04-e55a-413c-a4a1-1cf506f6e692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operations Dashboard'])[2]/following::label[1]</value>
+      <webElementGuid>1a416547-c315-432b-9929-8f36ce3b5cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::label[1]</value>
+      <webElementGuid>d15f17e9-00d8-48f4-90c1-1e0c270d2339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Address']/parent::*</value>
+      <webElementGuid>0d4c5349-eb2c-4c24-9648-957f8bc9d713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>35e01d63-912e-482e-865b-4ac9f5b9248e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Email Address' or . = 'Email Address')]</value>
+      <webElementGuid>2a34d64e-0381-4e35-9921-0548c7b74179</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add New Identifier_mat-select-trigger n_1df9e8</name>
+   <tag></tag>
+   <elementGuidId>5c70d3f1-2b23-4de3-b555-971a7d18a3c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-trigger.ng-tns-c90-11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='mat-select-4']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3c7f43a-d970-4a40-ad2f-32ca3ce86d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-trigger ng-tns-c90-11</value>
+      <webElementGuid>9310a09a-469a-4933-887e-333a0bdb7826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-4&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c90-11&quot;]</value>
+      <webElementGuid>d6f6e2fb-7c59-4dff-b83c-af3dd8bbdb57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-4']/div</value>
+      <webElementGuid>a03e336c-475b-4456-9a71-0184141b0503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Identifier'])[1]/following::div[5]</value>
+      <webElementGuid>249f9683-b64d-4149-a9db-e8fb95866d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Document'])[1]/following::div[5]</value>
+      <webElementGuid>e46c5d51-ba9c-438c-b764-7d13071930af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents - KYC - Sole Trader'])[1]/preceding::div[4]</value>
+      <webElementGuid>cd6f331f-fedc-4032-9fed-4ffb67580621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Name'])[1]/preceding::div[8]</value>
+      <webElementGuid>823268ed-f176-47d4-a5f0-1edef9f99091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div</value>
+      <webElementGuid>8138a844-5896-4e21-9aab-5d8d7f0d1497</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

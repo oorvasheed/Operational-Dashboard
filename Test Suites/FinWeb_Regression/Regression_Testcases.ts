@@ -32,4 +32,11 @@
       <testCaseId>Test Cases/BNPL/Finweb/Employment_Details_Income_Details</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>e56f5cdd-f04a-46a9-b9f4-27750def2cfb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BNPL/Finweb/Workflow_Journey</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

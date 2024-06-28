@@ -34,20 +34,20 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_MR'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Title_name'), 
-    'Primary')
+    Name)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__email'), 
-    'visakh.v2@indiumsoft.com')
+    Email)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__phone_number'), 
-    '54321230')
+    Email)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div__mat-select-arrow ng-tns-c90-10'))
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_230'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__address_line'), 
-    'fdsafs')
+    Address_Line)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div__mat-select-arrow ng-tns-c90-13'))
 
@@ -74,7 +74,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Next Steps'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Business Details_business_name'), 
-    'bakers choice')
+    Name_Of_Person)
 
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/span_Locality'), 5)
 
@@ -83,10 +83,10 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Individual'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__gst'), 
-    'N1278493021234')
+    BRN)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_VAT Registration Number_gst_address_line_1'), 
-    'dsafsdfsaf')
+    VAT_RegistrationNo)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_District'))
 
@@ -119,19 +119,20 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Title_name'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Title_name'), 
-    'cakesbiscuits')
+    Business_FirstName)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__last_name'), 
-    'V')
+    Business_LastName)
 
-WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Phone Number_mat-select-trigger ng-tns-c90-83'))
+WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Phone Number_mat-select-trigger ng-tns-c90-83'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/span_Mauritius'), 5)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_Mauritius'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Email_residential_address_line_1'), 
-    'fsad')
+    Address_Line_2)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_District'))
 
@@ -153,13 +154,13 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_ABC BANKING CORPORATION'))
 
-WebUI.sendKeys(findTestObject('Page_Operations Dashboard/input__acc_no'), '2786544542')
+WebUI.sendKeys(findTestObject('Page_Operations Dashboard/input__acc_no'), Account_Number)
 
 WebUI.sendKeys(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__reEnter_acc_no'), 
-    '2786544542')
+    ReEnter_AccountNo)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__acc_holder_name'), 
-    'sardhar')
+    AccountHolder_Name)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Branch_mat-select-value-15'))
 
@@ -182,7 +183,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/h2_Add New Identifier'), 5)
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents Sole Trader_ID Number'), 
-    'card')
+    Document_Name)
 
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Drag And Drop Files Here'), 0)
 
@@ -211,7 +212,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_National ID - Recto'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents - KYC - Sole Trader-Sub Typ_3d47b4'), 
-    'NIC')
+    Document_Name1)
 
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Documents'), 5)
 
@@ -229,7 +230,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/mat-option_VAT Certificate'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents - Additional_ID Number'), 
-    'VAT')
+    Document_Name2)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div_Documents_Reviewer_Document'), 
     0)
@@ -308,7 +309,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/li_Flat'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Fee Value_feeValue'), 
-    '50')
+    Fee_Value)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/button_Submit'))
 
@@ -342,12 +343,12 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_MR_Title'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Title_first_name'), 
-    'new screen merchant')
+    Name_4)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__identifier_number'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input__identifier_number'), 
-    'R1106824600386')
+    NIC_BRN)
 
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/div__mat-select-value-23 (1)'))
 
@@ -395,7 +396,7 @@ WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merch
 WebUI.click(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/span_VAT Certificate'))
 
 WebUI.setText(findTestObject('Object Repository/Operational_Dashboard/Create_Merchant/Page_Operations Dashboard/input_Documents - Additional_ID Number (1)'), 
-    'vat')
+    Document_Name3)
 
 WebUI.scrollToElement(findTestObject('Page_Operations Dashboard/div_Documents'), 0)
 

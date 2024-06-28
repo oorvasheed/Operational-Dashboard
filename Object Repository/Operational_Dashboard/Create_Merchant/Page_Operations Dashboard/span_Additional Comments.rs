@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Additional Comments</name>
+   <tag></tag>
+   <elementGuidId>85cf80ec-13c8-448e-b5f1-6d453f9bd3fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='mat-form-field-label-47']/mat-label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8e73ba2-de9b-4098-bb54-27585e317ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger mr-0.5 break-words truncate</value>
+      <webElementGuid>ba71e7f7-ffa9-4885-9576-13f047d6b9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-23</value>
+      <webElementGuid>ac8281bc-59cd-4598-9a5c-a3557d032bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Comments</value>
+      <webElementGuid>8d820142-493f-49bd-92d1-bd2b64aa1213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-form-field-label-47&quot;)/mat-label[@class=&quot;helper-text-label ng-tns-c33-103 ng-star-inserted&quot;]/span[@class=&quot;mat-tooltip-trigger mr-0.5 break-words truncate&quot;]</value>
+      <webElementGuid>026671fd-498d-4731-bcdf-ce6de4831e0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='mat-form-field-label-47']/mat-label/span</value>
+      <webElementGuid>f98339fe-2d69-469e-911f-768d86439f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Hit'])[1]/following::span[4]</value>
+      <webElementGuid>32703343-3a38-46c9-b069-e141e3e9e699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Match/No Records'])[3]/following::span[6]</value>
+      <webElementGuid>9f2580bb-f91d-40be-ab4d-a13c435ff453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[3]</value>
+      <webElementGuid>ff4c6583-d680-4ff4-a03f-ada27d97a611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[6]</value>
+      <webElementGuid>6b9d0d78-22d3-4fe7-95d6-350f5f6f419a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional Comments']/parent::*</value>
+      <webElementGuid>3104445c-813e-4015-ba3a-bc6526f73a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/mat-form-field/div/div/div/span/label/mat-label/span</value>
+      <webElementGuid>80a693c1-652f-45a0-84c7-1b3b72059038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Additional Comments' or . = 'Additional Comments')]</value>
+      <webElementGuid>4b3eea3c-6c7d-48ce-ac3b-dbb61e26334a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

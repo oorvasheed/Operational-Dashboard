@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Documents_Reviewer_Document</name>
+   <tag></tag>
+   <elementGuidId>472bfa5b-b635-47b9-b95d-499e0e88c764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dynamicComponentParent']/app-documents-details/div/section/form/section[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.action-title.font-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5137df1e-620c-4899-824d-2d3aa5f4c6ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-title font-semibold</value>
+      <webElementGuid>bc8fb298-aaa2-472f-88cc-594f837e56e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Documents *</value>
+      <webElementGuid>5a5e81e3-a068-4c1e-8cda-52e9bcedb8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicComponentParent&quot;)/app-documents-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;my-4 border border-gray-200 p-4 w-2/3 rounded-lg ng-star-inserted&quot;]/form[@class=&quot;mt-5 flex flex-col gap-2 ng-invalid ng-dirty ng-touched&quot;]/section[@class=&quot;flex w-full gap-4&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;action-title font-semibold&quot;]</value>
+      <webElementGuid>8cba557f-d236-4427-a433-2ea79e359ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dynamicComponentParent']/app-documents-details/div/section/form/section[3]/div/div</value>
+      <webElementGuid>cb3e03f1-0437-4546-80b2-89b63d34f6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Name'])[1]/following::div[6]</value>
+      <webElementGuid>0b30361f-7798-4406-9327-4828e6604ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents - Additional'])[1]/following::div[13]</value>
+      <webElementGuid>8aaa4682-d6e5-4861-ac59-acf07114e885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag And Drop Files Here'])[1]/preceding::div[2]</value>
+      <webElementGuid>47a1d329-faa8-4adb-b253-95f1d7622873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Documents']/parent::*</value>
+      <webElementGuid>64663448-bd86-49ce-91e1-a98aef2fd927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div</value>
+      <webElementGuid>d706471b-ecf6-4ee0-8482-26701e84379f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Documents *' or . = 'Documents *')]</value>
+      <webElementGuid>4d4f60c8-20ff-43c9-939f-5f90930b6cfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

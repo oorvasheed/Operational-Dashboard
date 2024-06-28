@@ -76,7 +76,7 @@ WebUI.delay(4, FailureHandling.OPTIONAL)
 
 WebDriver driver = DriverFactory.getWebDriver()
 
-String excelFilePath = 'C:/Users/I1675/Downloads/Income_BNPL01.xlsx'
+String excelFilePath = 'C:/Users/I1675/Downloads/Income_BNPL01_LOS.xlsx'
 
 boolean defaultOptionClicked = false;
 

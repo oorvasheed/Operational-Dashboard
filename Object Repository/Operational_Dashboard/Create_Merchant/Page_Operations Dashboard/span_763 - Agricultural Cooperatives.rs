@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_763 - Agricultural Cooperatives</name>
+   <tag></tag>
+   <elementGuidId>1e24cb71-4e39-41d4-a7b9-e830bfc4643f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-515 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-515']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66c81504-9861-467b-9968-f3fd3288bebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>34245fe4-524a-461e-a995-e58720eb9872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 763 - Agricultural Cooperatives </value>
+      <webElementGuid>267973a8-7082-4cef-af35-29a71acb1a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-515&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>d51000e1-55d0-458b-8fdc-9f782db4ccde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-515']/span</value>
+      <webElementGuid>949303d6-8f64-43a2-b957-360d738aceb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Steps'])[1]/following::span[4]</value>
+      <webElementGuid>4350f8f1-3944-467b-9dce-d7db4332f493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[7]</value>
+      <webElementGuid>c2f58362-0bf7-4ce5-a635-87df1a95be5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Digital Goods: Large Digital Goods Merchant (V)'])[1]/preceding::span[126]</value>
+      <webElementGuid>7d6cedfd-92eb-42ad-bab7-d72894f8defe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Betting (Sportsbook, fantasy, social gaming; when regulated and not covered by other MCCs) (D)'])[1]/preceding::span[269]</value>
+      <webElementGuid>7089eaf2-14e1-4ebc-bb37-1f40a35b989d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='763 - Agricultural Cooperatives']/parent::*</value>
+      <webElementGuid>0e9fb0f9-4525-4d9b-9469-a0f11ca670d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>22b875f9-cd07-430c-9180-a1271770d464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 763 - Agricultural Cooperatives ' or . = ' 763 - Agricultural Cooperatives ')]</value>
+      <webElementGuid>ccb16428-6d14-49e4-8085-4419053fc95e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

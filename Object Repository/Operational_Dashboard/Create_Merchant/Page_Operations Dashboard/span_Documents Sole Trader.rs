@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Documents Sole Trader</name>
+   <tag></tag>
+   <elementGuidId>cb35b7fb-4ebe-4474-8392-ee70f9836628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-form-field-label-wrapper.ng-tns-c33-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dynamicComponentParent']/app-documents-details/div/section/form/section/div/mat-form-field/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1c6c96f-6116-47d7-bc44-ee26bf50d28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-label-wrapper ng-tns-c33-6</value>
+      <webElementGuid>f5261ab5-9915-44b0-9d11-6bcf027baaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Documents Sole Trader</value>
+      <webElementGuid>8265e350-f906-4e56-b378-d9e3c12b58df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicComponentParent&quot;)/app-documents-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;my-4 border border-gray-200 p-4 w-2/3 rounded-lg ng-star-inserted&quot;]/form[@class=&quot;mt-5 flex flex-col gap-2 ng-untouched ng-pristine ng-invalid&quot;]/section[@class=&quot;flex w-full gap-4 flex-wrap&quot;]/div[@class=&quot;w-48per ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field w-full ng-tns-c33-6 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label ng-star-inserted mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c33-6&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c33-6&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c33-6&quot;]/span[@class=&quot;mat-form-field-label-wrapper ng-tns-c33-6&quot;]</value>
+      <webElementGuid>5b71a8ed-a139-4ec8-80c7-7200b9707412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dynamicComponentParent']/app-documents-details/div/section/form/section/div/mat-form-field/div/div/div/span</value>
+      <webElementGuid>5e535d06-2bb5-4b37-8e3f-5e948af055ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Registration Card*'])[1]/following::span[1]</value>
+      <webElementGuid>8e1b38eb-2047-4794-b124-c086e29d1b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Identifier'])[1]/following::span[3]</value>
+      <webElementGuid>1c3b7657-6011-47e8-9f36-3901ebf0b613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>aaf75885-a2b4-437b-bf8d-62dba80a944b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div/span</value>
+      <webElementGuid>947bad7c-ad8f-49e8-8018-007276d715eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Documents Sole Trader' or . = 'Documents Sole Trader')]</value>
+      <webElementGuid>7111ce86-15e2-4807-bdf6-a6f64b4113b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

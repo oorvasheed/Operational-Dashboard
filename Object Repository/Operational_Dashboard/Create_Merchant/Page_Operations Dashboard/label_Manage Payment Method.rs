@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Payment Method</name>
+   <tag></tag>
+   <elementGuidId>cba62893-3ef2-4687-b5a5-d79ef5c683de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#demo-row-radio-buttons-group-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='demo-row-radio-buttons-group-label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>835f2fc2-5d0d-4548-9268-13df789dc7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root MuiFormLabel-colorPrimary css-1vovazs</value>
+      <webElementGuid>01dd04d4-daa9-4ed4-84cf-5f77fd29a947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>demo-row-radio-buttons-group-label</value>
+      <webElementGuid>63999524-b4d8-4def-87da-2c8154106fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Payment Method</value>
+      <webElementGuid>99c86a2d-29ad-496f-a3cb-4557566135d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demo-row-radio-buttons-group-label&quot;)</value>
+      <webElementGuid>add0121d-e803-4477-984c-ef1b203b6bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='demo-row-radio-buttons-group-label']</value>
+      <webElementGuid>35617185-9fbb-4133-826f-56822cae63fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootReact']/section[2]/div/div/div/div[2]/div/div[3]/div[2]/div[2]/div/label</value>
+      <webElementGuid>6ade437a-d2a2-4c19-8712-21a0fe44785c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Over'])[1]/following::label[1]</value>
+      <webElementGuid>820db5b5-e69e-49ad-81f3-82418b7480df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit For Review'])[1]/following::label[1]</value>
+      <webElementGuid>410f2eba-973f-482a-bfe9-ff67c0ba9791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method are not added yet'])[1]/preceding::label[1]</value>
+      <webElementGuid>f03eb5d7-0ab4-4007-9144-40acae04539e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Payment Method'])[1]/preceding::label[1]</value>
+      <webElementGuid>f0dbedae-517d-42e4-9d0b-3a7080517a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Payment Method']/parent::*</value>
+      <webElementGuid>3a2671cf-fe76-41db-876d-109daad0b650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>fc5ae60f-339c-4ec2-b5a9-f9df790dea73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'demo-row-radio-buttons-group-label' and (text() = 'Manage Payment Method' or . = 'Manage Payment Method')]</value>
+      <webElementGuid>ac2d8ec9-aab2-4691-a0d5-b05b056afdeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

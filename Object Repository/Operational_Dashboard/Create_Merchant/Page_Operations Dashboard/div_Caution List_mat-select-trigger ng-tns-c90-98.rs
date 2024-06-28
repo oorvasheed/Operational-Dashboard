@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Caution List_mat-select-trigger ng-tns-c90-98</name>
+   <tag></tag>
+   <elementGuidId>8c73e7c7-b945-48c3-a574-0a96f0b3e780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-trigger.ng-tns-c90-98</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='mat-select-30']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebc45939-8284-4c88-be67-6991240d0434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-trigger ng-tns-c90-98</value>
+      <webElementGuid>280880d7-4e78-4d19-a333-b08c9e1d6d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-30&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c90-98&quot;]</value>
+      <webElementGuid>be657e39-7fcc-4414-848b-ed6ddd9c8eb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-30']/div</value>
+      <webElementGuid>3eca333c-a1fd-4756-9049-8f39a68ed810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caution List'])[1]/following::div[9]</value>
+      <webElementGuid>33e7f501-49a2-46bb-bfe2-98eb3a4a4c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adverse Media'])[3]/following::div[11]</value>
+      <webElementGuid>893736be-f4d2-475f-b347-c2ead5746385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEP'])[1]/preceding::div[4]</value>
+      <webElementGuid>eb2aa683-81f6-4057-aa7a-9a53df1312f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Check'])[1]/preceding::div[12]</value>
+      <webElementGuid>2aef530d-d423-42fc-9b42-dc8fd217ec2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/mat-form-field/div/div/div/mat-select/div</value>
+      <webElementGuid>665c6b6a-813f-4c34-b48a-b1ffc8615dc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
