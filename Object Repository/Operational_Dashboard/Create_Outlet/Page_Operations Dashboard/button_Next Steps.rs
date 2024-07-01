@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next Steps</name>
+   <tag></tag>
+   <elementGuidId>7b492b9d-6a87-4d56-bca1-3598e95c6066</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-button-base.mat-primary.mat-flat-button.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='object-1']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>296ef72d-71d2-4ed2-92fc-e9d0753653fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-primary mat-flat-button cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>2ab6a61c-c242-427c-a731-91c9dea29427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next Steps </value>
+      <webElementGuid>cf8a5b14-fc07-4a55-8742-dff7828df9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;object-1&quot;)/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-primary mat-flat-button cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>2f4d4a7c-94d9-41c8-993f-505547b07c41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='object-1']/div/button</value>
+      <webElementGuid>d064834c-ceb7-40c2-a33e-cc6f5b5ebde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mauritius'])[1]/following::button[3]</value>
+      <webElementGuid>45a97d5a-260c-42e7-9f3c-768b608696c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::button[3]</value>
+      <webElementGuid>4f1bf4f8-c5ea-4d5c-8e4f-58818cef789c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Over'])[1]/preceding::button[1]</value>
+      <webElementGuid>9b3423f8-8886-49e7-984c-ff7efff3c26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>f7fcb192-5187-4561-9c98-8d53c4118219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Next Steps ' or . = ' Next Steps ')]</value>
+      <webElementGuid>59c557c8-d038-4117-a541-8862575871ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

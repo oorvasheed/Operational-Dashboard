@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>90aabe4a-1b4d-49fb-b13e-9b93eb8e0440</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70e23041-ba1b-4b42-8d00-b8598aed1086</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07a02b1a-a8bb-4dee-9f5b-2ed2307e520a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70e23041-ba1b-4b42-8d00-b8598aed1086</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07a02b1a-a8bb-4dee-9f5b-2ed2307e520a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>

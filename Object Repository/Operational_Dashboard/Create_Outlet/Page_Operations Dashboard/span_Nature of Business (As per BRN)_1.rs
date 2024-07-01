@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nature of Business (As per BRN)_1</name>
+   <tag></tag>
+   <elementGuidId>4bf46dae-8e8a-4b49-bcbd-ca77f09b3a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='mat-form-field-label-27']/mat-label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cfb46fa7-0426-4681-87e0-fb853d303868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger mr-0.5 break-words truncate</value>
+      <webElementGuid>d35d76ec-50fe-4046-8098-21e88842616e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-13</value>
+      <webElementGuid>fe7000bb-1de6-42b8-9c3c-910c41199703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nature of Business (As per BRN)</value>
+      <webElementGuid>0b74c626-40b3-4283-a13c-897ae1e861ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-form-field-label-27&quot;)/mat-label[@class=&quot;helper-text-label ng-tns-c33-37 ng-star-inserted&quot;]/span[@class=&quot;mat-tooltip-trigger mr-0.5 break-words truncate&quot;]</value>
+      <webElementGuid>5e53064f-6756-4895-874d-69ef4b2ab02f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='mat-form-field-label-27']/mat-label/span</value>
+      <webElementGuid>420e54cd-c3e5-47b0-8b49-5f8ce5548f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[3]</value>
+      <webElementGuid>d578cca4-97a9-46ab-b70c-c192ca3d0a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doing Business As (Outlet Name)'])[1]/following::span[4]</value>
+      <webElementGuid>60334225-107c-4124-8d34-bc95fca53f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[1]</value>
+      <webElementGuid>e34c7274-77c5-459e-9472-5b7330243fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 1'])[1]/preceding::span[3]</value>
+      <webElementGuid>fd934c68-e442-4046-88eb-41483c7b0f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nature of Business (As per BRN)']/parent::*</value>
+      <webElementGuid>78bcd2b8-e9c2-47b4-bf0d-06f9bd312802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mat-form-field/div/div/div/span/label/mat-label/span</value>
+      <webElementGuid>e2967a3a-c634-4da9-b882-17266e01bc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nature of Business (As per BRN)' or . = 'Nature of Business (As per BRN)')]</value>
+      <webElementGuid>79cdaad6-4f12-407b-b903-7bba384c4494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

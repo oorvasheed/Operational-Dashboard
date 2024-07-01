@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ABC BANKING CORPORATION</name>
+   <tag></tag>
+   <elementGuidId>7fce09c5-e8f7-4bd5-90e6-454b5d2a4e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-293']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4712dd2-1d77-4ecd-91fd-9918c2ce5fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>01ff8ac0-1ad9-4672-8b46-e710fe122eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ABC BANKING CORPORATION </value>
+      <webElementGuid>9e8dda43-8512-4391-b02f-7aa36bfdd6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-293&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>df41bb96-e782-457d-be06-ca01cb495654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-293']/span</value>
+      <webElementGuid>7dbe8384-9775-4412-83ef-2bd48f896c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-293', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
+      <webElementGuid>a171ae56-b0f3-4fc0-9e1e-385741903cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Over'])[1]/following::span[3]</value>
+      <webElementGuid>fd096eba-97c5-4167-854b-ec549805b70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFRASIA BANK LTD'])[1]/preceding::span[1]</value>
+      <webElementGuid>86feb85c-30df-4518-8962-368be48ab151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK ONE'])[1]/preceding::span[2]</value>
+      <webElementGuid>ba7e3c63-f139-4e3a-867e-556f009024f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABC BANKING CORPORATION']/parent::*</value>
+      <webElementGuid>15c43fcc-27af-4ecd-9666-27afcbbd9a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option/span</value>
+      <webElementGuid>cfad5d0f-dfd2-4d63-9bad-12fc220fdd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ABC BANKING CORPORATION ' or . = ' ABC BANKING CORPORATION ')]</value>
+      <webElementGuid>39b3e679-c6b6-4c5c-8207-978876732d56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

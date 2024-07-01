@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submit</name>
+   <tag></tag>
+   <elementGuidId>b1dba409-e52b-43b8-bb11-f2963ca8cc56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-btn.gx-btn-inline-block.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Submit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8ba6327-01bf-4855-8279-370a63c214b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn gx-btn-inline-block  ant-btn-primary</value>
+      <webElementGuid>c6593cb5-3628-4666-adc1-b8af3f589466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>5784f6e5-8a3a-4b00-8b06-38d4d3df8776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;full-layout&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[1]/div[2]/a[@class=&quot;ant-btn gx-btn-inline-block  ant-btn-primary&quot;]</value>
+      <webElementGuid>2f16a6d5-7ad6-4402-a411-d1e54496f8f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submit')]</value>
+      <webElementGuid>62e8bf15-5953-442e-a6bd-82216a57345a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent Merchant ID'])[1]/following::a[1]</value>
+      <webElementGuid>91648f46-4e66-46ec-880e-62203166bea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPANY'])[1]/preceding::a[1]</value>
+      <webElementGuid>741fe637-f28f-4419-8b68-eb52ddb847e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUTLET'])[1]/preceding::a[1]</value>
+      <webElementGuid>b547ae65-783d-4830-8fd3-986f80bdab80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>433b2bb1-becd-41d2-a2d2-247f484608e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>3c56b17b-daf0-4464-8c95-778b2cb0c43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>0a5c58cb-6ced-45ee-9881-a315d790f3bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

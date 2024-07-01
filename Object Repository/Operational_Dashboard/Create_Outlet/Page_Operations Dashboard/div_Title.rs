@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Title</name>
+   <tag></tag>
+   <elementGuidId>8f7296d5-d1d1-4356-893b-dd5d8c11a664</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c33-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dynamicComponentParent']/source-details/div/div/div/app-update-source-detail/div/div/form/div/div[2]/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ce9ef34-281f-41b2-93d2-9db43cce28aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c33-4</value>
+      <webElementGuid>6bba548d-ac2e-43c9-89e9-ab4ab2065d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Title</value>
+      <webElementGuid>041cf2f5-f9bc-40fe-bc5e-aebd8d7614f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicComponentParent&quot;)/source-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/app-update-source-detail[@class=&quot;w-full top-21 relative&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/div[@class=&quot;w-full p-2 dialog-content overflow-y-scroll&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field w-full ng-tns-c33-4 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c33-4&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c33-4&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c33-4&quot;]</value>
+      <webElementGuid>6905a6ed-c13f-4caf-98ec-0400b5e9c482</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dynamicComponentParent']/source-details/div/div/div/app-update-source-detail/div/div/form/div/div[2]/mat-form-field/div/div/div</value>
+      <webElementGuid>54b0fe92-4615-451f-aa96-052e8fec6f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant Representative'])[1]/following::div[8]</value>
+      <webElementGuid>d35b25b1-fecc-4b50-ae5c-d2cb00217345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/following::div[10]</value>
+      <webElementGuid>693514d9-7f47-4534-bdae-58eec961f097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[9]</value>
+      <webElementGuid>d93911b9-53a2-4a5c-803a-59e4ac7d2fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-form-field/div/div/div</value>
+      <webElementGuid>7bb0ccd6-f5f6-4af8-9a4a-080a71da2a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Title' or . = 'Title')]</value>
+      <webElementGuid>7cc17e45-cb88-4f70-b750-eb1d6e7d9dd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

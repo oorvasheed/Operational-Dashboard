@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Outlet Details_mat-select-value-15</name>
+   <tag></tag>
+   <elementGuidId>fd276356-3b87-40ce-bb85-6f0199ac1766</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-15</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-15']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e20bfc1-cffb-4f26-8077-be4d92e1516d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c90-35</value>
+      <webElementGuid>492d9d6d-b2c5-4ab9-a2f5-eb1df8eada92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-15</value>
+      <webElementGuid>931c02cc-03a8-4eac-b375-62c03e38848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-15&quot;)</value>
+      <webElementGuid>092198ea-408c-480d-a241-5c552d87990c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-15']</value>
+      <webElementGuid>ae4fc278-7d0d-40b5-895d-dfc4dd3135c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-14']/div/div</value>
+      <webElementGuid>7f72652b-c335-4988-9270-071e50c59e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlet Details'])[2]/following::div[16]</value>
+      <webElementGuid>5bc0193c-2ec6-415e-b32d-5276db9ce7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessment Checklist'])[1]/following::div[23]</value>
+      <webElementGuid>310add4d-728e-41cc-a4a9-3021ed059ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlet Type'])[1]/preceding::div[3]</value>
+      <webElementGuid>862e7427-82c8-40bf-a23b-daebfb25a594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::div[3]</value>
+      <webElementGuid>02e6bde9-62c2-4ac7-b15c-d84653407d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div</value>
+      <webElementGuid>6db36cd6-ec63-488f-b198-5546b1c444aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-15']</value>
+      <webElementGuid>0ff641b4-71b3-476e-94a9-6d89ad80640f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

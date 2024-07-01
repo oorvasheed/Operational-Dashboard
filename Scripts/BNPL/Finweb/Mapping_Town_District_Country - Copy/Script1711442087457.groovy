@@ -19,10 +19,11 @@ import com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebDriver as WebDriver
-import org.openqa.selenium.WebElement as WebElement
+import org.openqa.selenium.WebDriver as WebDriver //it will install the selenium Webdriver
+import org.openqa.selenium.WebElement
+import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.By
-import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory //it will install for driverFactory
 
 
 WebUI.openBrowser('')
@@ -52,9 +53,14 @@ WebDriver driver = DriverFactory.getWebDriver()
 Object excelData = ExcelFactory.getExcelDataWithDefaultSheet('C:/Users/I1675/Downloads/District_Town_Data_1.xlsx', 'Sheet1', 
     true)
 
-for(int row = 1; row <= excelData.getRowNumbers(); row++) {
+for(int row = 1; row <= excelData.getRowNumbers(); row++)
+//for(int row =1; 1 <= 1(298); 2) it will start the loop	
+//for(int row = 299; 299 <= 299(298);	299) //it will stop the loop as out of boundary
+	 {
 	
-		String town = excelData.getValue('town_name', row)
+		String town = excelData.getValue('town_name', row) 
+		
+	//	String town	= excelData.getValue('town_name',1) //G.R.N.W
 		
 		String natId = excelData.getValue('nat_id', row)
 		
@@ -131,7 +137,8 @@ for(int row = 1; row <= excelData.getRowNumbers(); row++) {
 	    for(WebElement option : options) 
 			{
 			
-				if(option.getText().contains(town))
+				if(option.getText().contains(town)) //town=port louis north
+					//if(portlouis Centre, portlouisnorth,.contains(port louis north)
 					{
 						option.click()
 						optionFound = true

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Face To Face</name>
+   <tag></tag>
+   <elementGuidId>b6bd35ab-5b91-43af-a851-b94c19ed01a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-252']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6cdf254-f06a-4c8a-b33f-8f42a022ff8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>2c09800c-a9e0-4401-a9a6-1e80b1d4fc36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Face To Face </value>
+      <webElementGuid>d92c7fdd-e97d-42f9-91ed-b0fc0807ac65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-252&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c9c79dcb-c2be-4b41-acbc-0075287cfd97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-252']/span</value>
+      <webElementGuid>a233833b-c603-4044-aa3c-a01e0c679395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-252', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
+      <webElementGuid>fe5d0244-45bc-45bd-af09-da45ee6e3b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Over'])[1]/following::span[3]</value>
+      <webElementGuid>3f386cb2-357d-4f3f-a758-468d3ac5eeea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internet'])[1]/preceding::span[1]</value>
+      <webElementGuid>01656289-ee1a-41a7-b33f-af9049f39ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlet Type'])[2]/preceding::span[2]</value>
+      <webElementGuid>6fad1ddf-0d28-43a0-8d0b-a95ad8f437fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Face To Face']/parent::*</value>
+      <webElementGuid>44c77240-dfdf-49b7-b439-0467e5e769ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option/span</value>
+      <webElementGuid>b1dd64cb-6a2f-4e4c-88aa-ef41b0bebf27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Face To Face ' or . = ' Face To Face ')]</value>
+      <webElementGuid>9cc1cc72-1b76-43a7-b63c-4c585e3a904d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nature of Business (As per BRN)</name>
+   <tag></tag>
+   <elementGuidId>4499ebaa-a453-4f88-a0e1-0fabdb91a0fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-form-field-label-wrapper.ng-tns-c33-37</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dynamicComponentParent']/source-details/div/div/div/app-update-source-detail/div/div/form/div/div[3]/mat-form-field/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a05521d-519e-4316-8edd-af4183b4e310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-label-wrapper ng-tns-c33-37</value>
+      <webElementGuid>77fb7d26-bae5-4071-b37a-b095cf3ee342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nature of Business (As per BRN)*</value>
+      <webElementGuid>08107365-3df0-4b82-9266-02af09e2a24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicComponentParent&quot;)/source-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex w-full ng-star-inserted&quot;]/app-update-source-detail[@class=&quot;w-full top-21 relative&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/div[@class=&quot;w-full p-2 dialog-content overflow-y-scroll&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/div[@class=&quot;w-full ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field w-full ng-tns-c33-37 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c33-37&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c33-37&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c33-37&quot;]/span[@class=&quot;mat-form-field-label-wrapper ng-tns-c33-37&quot;]</value>
+      <webElementGuid>9f930975-a757-441a-9714-4241a59eae9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dynamicComponentParent']/source-details/div/div/div/app-update-source-detail/div/div/form/div/div[3]/mat-form-field/div/div/div/span</value>
+      <webElementGuid>9106a986-3d6b-429b-935e-5d6434aed706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[2]</value>
+      <webElementGuid>b3bae993-1420-417f-8444-c8cba1c6f184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doing Business As (Outlet Name)'])[1]/following::span[3]</value>
+      <webElementGuid>a045f139-95ae-4efb-a81d-d2423051008c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mat-form-field/div/div/div/span</value>
+      <webElementGuid>d6d5c069-46d8-41b6-bae2-35be7a187dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nature of Business (As per BRN)*' or . = 'Nature of Business (As per BRN)*')]</value>
+      <webElementGuid>9b8fbe46-32aa-45b4-a114-036672da921b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

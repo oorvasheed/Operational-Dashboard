@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Outlet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d63e2eb-2c9b-47f0-b20f-5a8f64e614c3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c9366421-1c38-44ec-ba84-be9711bc31ff</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Operational_Dashboard/Outlet_Merchant/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c9366421-1c38-44ec-ba84-be9711bc31ff</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>2e18c739-cd76-4065-920a-507ab570ea66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c9366421-1c38-44ec-ba84-be9711bc31ff</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>4d6f3cf4-994c-4917-9700-f79cd05935f1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c9366421-1c38-44ec-ba84-be9711bc31ff</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Phone_Number</value>
+      <variableId>1402a3bf-edf8-40a3-adbd-3fd650b90c93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e18c739-cd76-4065-920a-507ab570ea66</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d6f3cf4-994c-4917-9700-f79cd05935f1</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1402a3bf-edf8-40a3-adbd-3fd650b90c93</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+</TestCaseEntity>

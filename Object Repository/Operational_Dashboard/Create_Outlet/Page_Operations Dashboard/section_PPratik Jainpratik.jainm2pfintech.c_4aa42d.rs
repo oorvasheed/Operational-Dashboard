@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_PPratik Jainpratik.jainm2pfintech.c_4aa42d</name>
+   <tag></tag>
+   <elementGuidId>b49b9437-0521-4a84-b4bf-c0f805d4cd45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.main-header-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rootReact']/section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>660b99bf-edc8-4ba3-bf39-20cbf530ceea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-header-container</value>
+      <webElementGuid>7fcf0caa-9ac8-442c-aaf0-b1f7290e47f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PPratik Jainpratik.jain@m2pfintech.comCIM FinanceLogout</value>
+      <webElementGuid>bfc107a3-1243-4eaa-b5bc-61ad7364bf6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootReact&quot;)/section[@class=&quot;main-header-container&quot;]</value>
+      <webElementGuid>12f8e377-2df5-4c1f-9a1d-d8d9639e6e6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootReact']/section</value>
+      <webElementGuid>f75e5c05-be48-4ed7-aa9a-9a94fb2e9f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+      <webElementGuid>0d09c2e0-3a81-42d0-b443-986daf5a3277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'PPratik Jainpratik.jain@m2pfintech.comCIM FinanceLogout' or . = 'PPratik Jainpratik.jain@m2pfintech.comCIM FinanceLogout')]</value>
+      <webElementGuid>06a96c3f-46d4-4e8a-a498-525334afd380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

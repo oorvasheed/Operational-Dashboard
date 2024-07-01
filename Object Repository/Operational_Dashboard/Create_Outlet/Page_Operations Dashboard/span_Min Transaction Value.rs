@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Min Transaction Value</name>
+   <tag></tag>
+   <elementGuidId>4f6cb081-bc4b-4981-a881-a8322b6760a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='mat-form-field-label-43']/mat-label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c80fb6fa-6961-4ef0-bd91-a8d8ed0b76d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger mr-0.5 break-words truncate</value>
+      <webElementGuid>d7be5c44-66cd-4c0e-adbc-1de648292c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-21</value>
+      <webElementGuid>65e62223-5aa4-4778-a676-ff09a9d5e30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Min Transaction Value</value>
+      <webElementGuid>f021a48b-8a3b-46ca-81f0-7a5bf899a402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-form-field-label-43&quot;)/mat-label[@class=&quot;helper-text-label ng-tns-c33-48 ng-star-inserted&quot;]/span[@class=&quot;mat-tooltip-trigger mr-0.5 break-words truncate&quot;]</value>
+      <webElementGuid>44a16e2a-70ec-4d08-8d49-4c8ce74ad09e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='mat-form-field-label-43']/mat-label/span</value>
+      <webElementGuid>9dbac8cb-7617-4fe7-a628-e587c8561aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Ticket Value'])[1]/following::span[4]</value>
+      <webElementGuid>8cdc5bd3-6584-4cb8-875b-fedb4afe67ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Monthly Volume'])[1]/following::span[8]</value>
+      <webElementGuid>b8dec6a2-ec2f-4939-8526-371d466dd9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max Transaction Value'])[1]/preceding::span[3]</value>
+      <webElementGuid>7e7e2be5-3473-497c-a31c-03aca40bcb2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlet Sub Type'])[1]/preceding::span[8]</value>
+      <webElementGuid>c11c5712-836c-46db-88df-625051053e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Min Transaction Value']/parent::*</value>
+      <webElementGuid>fbf8e802-2128-421e-9b9a-510ffe7aa823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/mat-form-field/div/div/div/span/label/mat-label/span</value>
+      <webElementGuid>442f31b4-4023-498f-bfd8-e08cef3bf5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Min Transaction Value' or . = 'Min Transaction Value')]</value>
+      <webElementGuid>ed1cea42-a621-45dc-9965-e93f462594e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

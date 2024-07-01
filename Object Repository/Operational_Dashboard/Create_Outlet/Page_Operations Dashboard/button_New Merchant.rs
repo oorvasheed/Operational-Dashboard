@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Merchant</name>
+   <tag></tag>
+   <elementGuidId>f430af1a-a22d-4acd-b7c6-76bb9151c1cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.extra-card-wrapper > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.proceed-button.css-1ujsas3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd3861ef-1abf-4bd3-aea0-7dc4f82a94eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium proceed-button css-1ujsas3</value>
+      <webElementGuid>8eed2557-b742-4784-897d-e1095260e49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e39637ec-f9ae-44d6-aa5e-9bf3b08ac277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d73a92e-98fb-406f-be3f-7fe249e06c00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Merchant</value>
+      <webElementGuid>dcb42aa5-1d14-4883-96c4-ae7ba8cbf0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootReact&quot;)/section[@class=&quot;main-app-container&quot;]/div[@class=&quot;app-container&quot;]/div[@class=&quot;merchant-list-container&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-head&quot;]/div[@class=&quot;ant-card-head-wrapper&quot;]/div[@class=&quot;ant-card-extra&quot;]/span[1]/div[@class=&quot;extra-card-wrapper&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium proceed-button css-1ujsas3&quot;]</value>
+      <webElementGuid>128a5881-39e4-4fa5-8851-fb37b85f772a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>cc9f96ee-5f29-4daf-86ac-acd023ba7f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootReact']/section[2]/div/div/div/div/div/div[2]/span/div/button</value>
+      <webElementGuid>f925f686-8e8d-4ffa-8b03-d49bbbae83e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchants'])[2]/following::button[1]</value>
+      <webElementGuid>c20ac45f-1e53-4496-8a61-49568ec7b619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered By'])[1]/following::button[1]</value>
+      <webElementGuid>8f23763e-3842-4e92-8f19-d6ba6b955a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved (28)'])[1]/preceding::button[1]</value>
+      <webElementGuid>277f9b88-e78f-48fb-bfcc-5353a7805b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiated (28)'])[1]/preceding::button[2]</value>
+      <webElementGuid>7829a010-0c9d-4532-8dfc-a62f1081f894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Merchant']/parent::*</value>
+      <webElementGuid>b8b42ef4-2862-4d07-93e3-849f9b1be5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/button</value>
+      <webElementGuid>96d28ebd-af46-4c56-8751-c1d876e5d111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New Merchant' or . = 'New Merchant')]</value>
+      <webElementGuid>506faee9-ee0e-49e6-926b-7116d939ae29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
